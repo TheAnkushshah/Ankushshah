@@ -1,20 +1,50 @@
 {
-    "short_name": "Ankush Shah",
-    "name": "Ankush Shah",
-    "icons": [
-      {
-        "src": "HeroImage.jpg",
-        "type": "image/png",
-        "sizes": "192x192"
-      },
-      {
-        "src": "apple-touch-icon.png",
-        "type": "image/png",
-        "sizes": "512x512"
-      }
-    ],
-    "start_url": ".",
-    "display": "standalone",
-    "theme_color": "#000000",
-    "background_color": "#ffffff"
-  }  
+  "short_name": "Ankush Shah",
+  "name": "Ankush Shah",
+  "icons": [
+    {
+      "src": "HeroImage.jpg",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "apple-touch-icon.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "/public/splash5.png",
+      "type": "image/png",
+      "sizes": "640x1136",
+      "purpose": "any"
+    },
+    {
+      "src": "/public/splash4.png",
+      "type": "image/png",
+      "sizes": "750x1334",
+      "purpose": "any"
+    },
+    {
+      "src": "/public/splash3.png",
+      "type": "image/png",
+      "sizes": "1125x2436",
+      "purpose": "any"
+    },
+    {
+      "src": "/public/splash2.png",
+      "type": "image/png",
+      "sizes": "1242x2688",
+      "purpose": "any"
+    },
+    {
+      "src": "/public/splash.png",
+      "type": "image/png",
+      "sizes": "2048x2732",
+      "purpose": "any"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#fbfbfb"
+}
