@@ -3,41 +3,41 @@
   "name": "Ankush Shah",
   "icons": [
     {
-      "src": "HeroImage.jpg",
+      "src": "/HeroImage.jpg",
       "type": "image/png",
       "sizes": "1600x1600"
     },
     {
-      "src": "apple-touch-icon.png",
+      "src": "/apple-touch-icon.png",
       "type": "image/png",
       "sizes": "340x340"
     },
     {
-      "src": "splash5.png",
+      "src": "/splash5.png",
       "type": "image/png",
       "sizes": "640x1136",
       "purpose": "any"
     },
     {
-      "src": "splash4.png",
+      "src": "/splash4.png",
       "type": "image/png",
       "sizes": "750x1334",
       "purpose": "any"
     },
     {
-      "src": "splash3.png",
+      "src": "/splash3.png",
       "type": "image/png",
       "sizes": "1125x2436",
       "purpose": "any"
     },
     {
-      "src": "splash2.png",
+      "src": "/splash2.png",
       "type": "image/png",
       "sizes": "1242x2688",
       "purpose": "any"
     },
     {
-      "src": "splash.png",
+      "src": "/splash.png",
       "type": "image/png",
       "sizes": "2048x2732",
       "purpose": "any"
@@ -45,6 +45,5 @@
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#fbfbfb"
+  "theme_color": "#000000"
 }
