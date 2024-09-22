@@ -9,24 +9,6 @@
     <!-- Apple Touch Icon for home screen (iOS) -->
     <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png" />
 
-    <!-- Apple-specific Splash Screens for PWA -->
-    <link rel="apple-touch-startup-image" href="/public/splash14.png" media="(device-width: 320px) and (device-height: 568px)">
-    <link rel="apple-touch-startup-image" href="/public/splash13.png" media="(device-width: 375px) and (device-height: 667px)">
-    <link rel="apple-touch-startup-image" href="/public/splash12.png" media="(device-width: 414px) and (device-height: 736px)">
-    <link rel="apple-touch-startup-image" href="/public/splash11.png" media="(device-width: 375px) and (device-height: 812px)">
-    <link rel="apple-touch-startup-image" href="/public/splash10.png" media="(device-width: 414px) and (device-height: 896px)">
-    <link rel="apple-touch-startup-image" href="/public/splash9.png" media="(device-width: 414px) and (device-height: 896px)">
-    <link rel="apple-touch-startup-image" href="/public/splash8.png" media="(min-device-width: 768px) and (max-device-width: 1024px)">
-    <link rel="apple-touch-startup-image" href="/public/splash7.png" media="(min-device-width: 834px) and (max-device-width: 1112px)">
-    <link rel="apple-touch-startup-image" href="/public/splash6.png" media="(min-device-width: 834px) and (max-device-width: 1194px)">
-    <link rel="apple-touch-startup-image" href="/public/splash.png" media="(min-device-width: 1024px) and (max-device-width: 1366px)">
-
-    <!-- Viewport Meta Tag -->
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-
-    <!-- Theme Color for PWA -->
-    <meta name="theme-color" content="#000000" />
-
     <!-- PWA Manifest -->
     <link rel="manifest" href="manifest.json" />
 
@@ -41,41 +23,11 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 
     <title>Ankush Shah</title>
-
-    <!-- Custom Splash Screen CSS -->
-    <style>
-      body, html {
-        height: 100%;
-        margin: 0;
-      }
-
-      .splash-screen {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        background-image: url('/splash.png'); /* Add your custom background image */
-        background-size: cover;
-        background-position: center;
-        height: 100vh; /* Full height of the viewport */
-        width: 100vw;  /* Full width of the viewport */
-        position: fixed;
-        top: 0;
-        left: 0;
-        z-index: 9999; /* Ensures it's on top of other content */
-      }
-    </style>
   </head>
   <body>
     <noscript>You need to enable JavaScript to run this app.</noscript>
 
     <!-- React App Root -->
     <div id="root"></div>
-
-    <!-- Add the script to remove splash screen -->
-    <script>
-      window.addEventListener('load', function() {
-        document.querySelector('.splash-screen').style.display = 'none';
-      });
-    </script>
   </body>
 </html>
