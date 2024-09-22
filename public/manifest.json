@@ -5,12 +5,12 @@
     {
       "src": "/HeroImage1.png",
       "type": "image/png",
-      "sizes": "1600x1600"
+      "sizes": "612x612"
     },
     {
       "src": "/apple-touch-icon.png",
       "type": "image/png",
-      "sizes": "340x340"
+      "sizes": "612x612"
     }
   ],
   "start_url": ".",
