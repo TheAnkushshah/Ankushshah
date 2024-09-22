@@ -1,7 +1,7 @@
 {
   "name": "ankush-shah-portfolio",
   "version": "0.1.0",
-  "homepage": "https://theankushshah.github.io",
+  "homepage": "https://ankushshah.vercel.app",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
