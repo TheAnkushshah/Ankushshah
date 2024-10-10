@@ -34,7 +34,7 @@ export const skills = [
       {
         name: "Next Js",
         image:
-          "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACTklEQVR4Ab1XAaQqURB9DyohSykREpRIQSAlBCoECKUFCSRCBBEAaSEABQEoCIEASCwAUICALgCo83do0//9v819XX845O7VnDkzOzP7JWGaBd3C3IJpQVjAHeJ+Rs9a97vKLGrBsB1KgMhEP3FMUUwt4ENMfxr1yQIU4SSjRkbeOZtERmHk6pXQVDlnkHh9S+QLTm1hkiz4n/gzFQuny9FoFLquE+i34x+n02k0m00UCoV3BIzn3MMJrVYLtp1OJ0cS/X4f5/MZhmG8IyDsWtDfEaDIn2232/3zbrvdxuFwwGg04qRBt+VnETBNE0IIkE2n07/erdfrWK/X6Ha73Hb9ZXII3G43ivy3dNRqtZe7lUoFs9mM6oBDwCQCgquALT1FT3a5XF7qIZ/PYzgcolqtcggIIgBZAgRKB6lCRalp2uM8k8mAVMrlchwC+DEBipycE4n5fP44j8ViKJVKSCaTbAJCpgaez4vFIsjoWa/XA50FAgEkEgmEw2F2CkxZBZ5Br5tt1ITcbjd8Ph88Hg+7CBefECCsVitS4aVJcV9D/VMCVITk/Hq9YrPZyBBo2a1YMGvAcQYcj0cCtWMugcdYNhjDiBrP25mx3++x3W6RzWZZ8isfxzQLlsslJpMJpYY5jhkqcOH1ejEYDDAej9FoNOByuZxGsfqVzC7KTqcDSkkqleKsZOqX0mAwiHK5DGrJfr+fs5SqX8sjkQji8ThCoRC+v78Za7l6JagrUh3YkUuZpqgwDaecc9VYSDoV5Fg+at7n+eLN57kuE/EvzHr/Kvs31aYAAAAASUVORK5CYII=",
+          "https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/nextjs/nextjs-original.svg",
       },
       {
         name: "HTML",
@@ -43,7 +43,7 @@ export const skills = [
       {
         name: "CSS",
         image:
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png",
       },
       {
         name: "JavaScript",
@@ -51,9 +51,49 @@ export const skills = [
           "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png",
       },
       {
+        name: "Angular",
+        image:
+          "https://upload.wikimedia.org/wikipedia/commons/5/50/Angular-logo.png",
+      },
+      {
+        name: "Vue Js",
+        image:
+          "https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/vuejs/vuejs-original.svg",
+      },
+      {
+        name: "Bootstrap",
+        image:
+          "https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/bootstrap/bootstrap-original.svg",
+      },
+      {
+        name: "Tailwind CSS",
+        image:
+          "https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/tailwindcss/tailwindcss-original.svg",
+      },
+      {
+        name: "Nuxt Js",
+        image:
+          "https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/nuxtjs/nuxtjs-original.svg",
+      },
+      {
+        name: "SAAS",
+        image:
+          "https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/sass/sass-original.svg",
+      },
+      {
+        name: "TypeScript",
+        image:
+          "https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/typescript/typescript-original.svg",
+      },
+      {
+        name: "Webpack",
+        image:
+          "https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/webpack/webpack-original.svg",
+      },
+      {
         name: "Material UI",
         image:
-          "data:image/png;base64,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",
+          "https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/materialui/materialui-original.svg",
       },
       {
         name: "Flutter",
@@ -67,11 +107,11 @@ export const skills = [
     skills: [
       {
         name: "Node Js",
-        image: "https://nodejs.org/static/images/logo.svg",
+        image: "https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/nodejs/nodejs-original.svg",
       },
       {
         name: "Express Js",
-        image:"https://cdn-icons-png.flaticon.com/512/7784/7784482.png",
+        image:"https://cdn.iconscout.com/icon/free/png-256/free-node-js-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-5-pack-logos-icons-3030179.png",
       },
       {
         name: "Python",
@@ -98,13 +138,102 @@ export const skills = [
         image: "https://www.postgresql.org/media/img/about/press/elephant.png",
       },
       {
+        name: "Ruby on Rails",
+        image: "https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/ruby-on-rails-512.png",
+      },
+      {
+        name: "Spring",
+        image: "https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/spring/spring-original.svg",
+      },
+      {
         name: "MongoDB",
         image:
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Antu_mongodb.svg/2048px-Antu_mongodb.svg.png",
+          "https://cdn.iconscout.com/icon/free/png-256/free-mongodb-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-vol-5-pack-logos-icons-2945120.png?f=webp",
       },
       {
         name: "Firebase",
         image: "https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg",
+      },
+      {
+        name: "Laravel",
+        image: "https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/laravel/laravel-original.svg",
+      },
+      {
+        name: "GraphQL",
+        image: "https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/graphql/graphql-plain.svg",
+      },
+      {
+        name: "Supabase",
+        image: "https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/supabase/supabase-original.svg",
+      },
+      {
+        name: "Railway",
+        image: "https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/railway/railway-original.svg",
+      },
+    ],
+  },
+  {
+    title: "Languages",
+    skills: [
+      {
+        name: "Python",
+        image:
+          "https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/python/python-original.svg",
+      },
+      {
+        name: "Java",
+        image:
+          "https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/java/java-original.svg",
+      },
+      {
+        name: "JavaScript",
+        image:
+          "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg",
+      },
+      {
+        name: "C#",
+        image:
+          "https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/csharp/csharp-original.svg",
+      },
+      {
+        name: "C++",
+        image:
+          "https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/cplusplus/cplusplus-original.svg",
+      },
+      {
+        name: "Go",
+        image:
+          "https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/go/go-original.svg",
+      },
+      {
+        name: "Rust",
+        image:
+          "https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/rust-icon.png",
+      },
+      {
+        name: "Swift",
+        image:
+          "https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/swift/swift-original.svg",
+      },
+      {
+        name: "C",
+        image:
+          "https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/c/c-original.svg",
+      },
+      {
+        name: "Dart",
+        image:
+          "https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/dart/dart-original.svg",
+      },
+      {
+        name: "Kotlin",
+        image:
+          "https://cdn.iconscout.com/icon/free/png-256/free-kotlin-3629472-3031535.png",
+      },
+      {
+        name: "PHP",
+        image:
+          "https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/php/php-original.svg",
       },
     ],
   },
@@ -126,15 +255,40 @@ export const skills = [
         image:
           "https://cdn.icon-icons.com/icons2/2407/PNG/512/docker_icon_146192.png",
       },
+      {
+        name: "Kubernetes",
+        image:
+          "https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/kubernetes/kubernetes-original.svg",
+      },
+      {
+        name: "Github",
+        image:
+          "https://static-00.iconduck.com/assets.00/github-icon-256x256-f4srpvey.png",
+      },
+      {
+        name: "Gitlab",
+        image:
+          "https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/gitlab/gitlab-original.svg",
+      },
+      {
+        name: "Circle CI",
+        image:
+          "https://backstage-spotify-com.spotifycdn.com/_next/static/media/icon-white.a3421676.png",
+      },
+      {
+        name: "Jenkins",
+        image:
+          "https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/jenkins/jenkins-original.svg",
+      },
     ],
   },
   {
     title: "Android",
     skills: [
       {
-        name: "Java",
+        name: "Flutter",
         image:
-          "https://icon-library.com/images/java-icon-image/java-icon-image-9.jpg",
+          "https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png",
       },
       {
         name: "Kotlin",
@@ -144,7 +298,7 @@ export const skills = [
       {
         name: "Jetpack Compose",
         image:
-          "https://3.bp.blogspot.com/-VVp3WvJvl84/X0Vu6EjYqDI/AAAAAAAAPjU/ZOMKiUlgfg8ok8DY8Hc-ocOvGdB0z86AgCLcBGAsYHQ/s1600/jetpack%2Bcompose%2Bicon_RGB.png",
+          "https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/jetpackcompose/jetpackcompose-original.svg",
       },
       {
         name: "XML",
@@ -162,24 +316,34 @@ export const skills = [
     title: "Machine Learning",
     skills: [
       {
-        name: "Python",
-        image:
-          "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg",
-      },
-      {
         name: "Tenserflow",
         image:
           "https://static-00.iconduck.com/assets.00/tensorflow-icon-1911x2048-1m2s54vn.png",
       },
       {
+        name: "Keras",
+        image:
+          "https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/keras/keras-original.svg",
+      },
+      {
         name: "Jupyter",
         image:
-          "https://cdn.icon-icons.com/icons2/2667/PNG/512/jupyter_app_icon_161280.png",
+          "https://technology.amis.nl/wp-content/uploads/2020/11/image_thumb-27.png",
+      },
+      {
+        name: "Pytorch",
+        image:
+          "https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/pytorch/pytorch-original.svg",
       },
       {
         name: "Google Colab",
         image:
           "https://colab.research.google.com/img/colab_favicon_256px.png",
+      },
+      {
+        name: "Scikit Learn",
+        image:
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Eo_circle_orange_letter-s.svg/2048px-Eo_circle_orange_letter-s.svg.png",
       },
     ],
   },
@@ -194,7 +358,7 @@ export const skills = [
       {
         name: "GitHub",
         image:
-          "https://static-00.iconduck.com/assets.00/github-icon-2048x1988-jzvzcf2t.png",
+          "https://static-00.iconduck.com/assets.00/github-icon-256x256-f4srpvey.png",
       },
       {
         name: "Netlify",
@@ -209,7 +373,7 @@ export const skills = [
       {
         name: "Microsoft 365",
         image:
-          "https://seeklogo.com/images/M/microsoft-365-logo-6D6E233C94-seeklogo.com.png",
+          "https://drove.vercel.app/_next/image?url=%2Flogo.png&w=64&q=75",
       },
       {
         name: "Canva",
@@ -219,7 +383,22 @@ export const skills = [
       {
         name: "Figma",
         image:
-          "https://s3-alpha.figma.com/hub/file/1481185752/fa4cd070-6a79-4e1b-b079-8b9b76408595-cover.png",
+          "https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/figma/figma-original.svg",
+      },
+      {
+        name: "Adobe XD",
+        image:
+          "https://cdn.iconscout.com/icon/free/png-256/free-xd-logo-icon-download-in-svg-png-gif-file-formats--social-media-pack-logos-icons-1912062.png?f=webp&w=256",
+      },
+      {
+        name: "Slack",
+        image:
+          "https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/slack/slack-original.svg",
+      },
+      {
+        name: "Trello",
+        image:
+          "https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/trello/trello-original.svg",
       },
     ],
   },
@@ -713,23 +892,23 @@ export const education = [
 export const projects = [
   {
     id: 11,
-    title: "Logista",
+    title: "NeoMind",
     date: "Sep 2023 - Nov 2023",
     description:
-      "A Rule Builder application “Logista” that empowers Business Analysts to create, save, and visualize decision strategies. Provide a no-code rule writing experience and visual representation to test these rules in real-time and observe the calculations at each step.",
+      "An AI Saas application “NeoMind” that empowers users to chat and generate photos, videos, codes and music just by a prompt. Unlocking the future, your ultimate AI bestfriend !",
     image:
-      "https://raw.githubusercontent.com/TheAnkushshah/Govt.ModelSanskritiSeniorSecondarySchool/main/Logista.png",
+      "https://github.com/TheAnkushshah/NeoMind/raw/main/public/Preview.png",
     tags: [
-      "React Js",
-      "PostgressSQL",
-      "Node Js",
-      "Express Js",
-      "Redux",
-      "React Flow",
+      "Next Js",
+      "React",
+      "Tailwind",
+      "Prisma",
+      "Stripe",
+      "Many More",
     ],
     category: "web app",
-    github: "https://github.com/rishavchanda/DecisionHub",
-    webapp: "https://decisionhub.netlify.app/",
+    github: "https://github.com/TheAnkushshah/NeoMind",
+    webapp: "https://neomind.vercel.app/",
     member: [
       {
         name: "Ankush Shah",
@@ -751,28 +930,24 @@ export const projects = [
   },
   {
     id: 9,
-    title: "Well Fly",
+    title: "Drove",
     date: "Apr 2020 -  Sep 2020",
     description:
-      "Well Fly is a web application designed to streamline task management and enhance productivity in the workplace. It provides a user-friendly interface for employers to keep track of their employees' daily work activities and empowers employees to log their tasks efficiently.",
+      "Built with the latest Next.js and TypeScript, this project replicates google drive, a widely used file sharing and saving tool. It enables users to securely log in, uploading files, create teams and access various functionalities such as group file sharing, saving, and managing members.",
     image:
-      "https://raw.githubusercontent.com/TheAnkushshah/Govt.ModelSanskritiSeniorSecondarySchool/main/Well%20Fly.png",
+      "https://github.com/TheAnkushshah/Drove/raw/main/public/Preview.png",
     tags: [
-      "Docker",
-      "AWS",
-      "DuckDNS",
-      "Eslint",
-      "Husky",
-      "CI/CD",
-      "React Js",
-      "MongoDb",
-      "Node Js",
-      "Express Js",
-      "Redux",
+      "Next Js",
+      "TypeScript",
+      "Clerk",
+      "Convex",
+      "Shadcn",
+      "Tailwind",
+      "Many More"
     ],
     category: "web app",
-    github: "https://github.com/rishavchanda/Trackify",
-    webapp: "https://trackify-management.netlify.app/",
+    github: "https://github.com/TheAnkushshah/Drove",
+    webapp: "https://drove.vercel.app/",
     member: [
       {
         name: "Ankush Shah",
@@ -790,16 +965,16 @@ export const projects = [
   },
   {
     id: 0,
-    title: "Playstream",
+    title: "Room",
     date: "Feb 2023 - Mar 2023",
     description:
-      "Developed a full-stack web application that allows users to search for, play, and pause their favorite podcasts on demand and create podcasts. Implemented user authentication using Google Auth and Jwt Auth, made responsive user interface with React JS that provides users with a seamless experience across all devices. Practiced agile methodologies to optimize team efficiency and communication.",
+      "Built with the latest Next.js and TypeScript, this project replicates Zoom, a widely used video conferencing tool. It enables users to securely log in, create meetings and access various meeting functionalities such as recording, screen sharing, and managing participants.",
     image:
-      "https://raw.githubusercontent.com/TheAnkushshah/Govt.ModelSanskritiSeniorSecondarySchool/main/Playstream.png",
-    tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
+      "https://github.com/TheAnkushshah/Room/raw/main/public/Preview.png",
+    tags: ["Next Js", "TypeScript", "Clerk", "Shadcn", "Get Stream", "Tailwind", "Many More"],
     category: "web app",
-    github: "https://github.com/rishavchanda/Podstream",
-    webapp: "https://podstream.netlify.app/",
+    github: "https://github.com/TheAnkushshah/Room",
+    webapp: "https://theeroom.vercel.app/",
     member: [
       {
         name: "Ankush Shah",
@@ -817,23 +992,23 @@ export const projects = [
   },
   {
     id: 1,
-    title: "Nexer",
+    title: "Go Verify",
     date: "Oct 2022 - Jan 2023",
     description:
-      "Designed and developed the Nexer project, a project management app that helps users and teams stay organized and on track. Implemented key features such as task tracking, team collaboration, and time tracking to improve productivity and project outcomes and also invite team/project members. The plan is to add a community of users where they can find developers and other team members and chat system implementation.",
+      "It's a comprehensive user auth web app, ensuring secure login for the company's clients. Handles both front-end and back-end, contributing to the interface design and implementation of two-factor authentication for enhanced security.",
     image:
-      "https://raw.githubusercontent.com/TheAnkushshah/Govt.ModelSanskritiSeniorSecondarySchool/main/Nexer.png",
+      "https://github.com/TheAnkushshah/oibsip_taskno/blob/main/public/Preview%20copy.png?raw=true",
     tags: [
-      "React Js",
-      "MongoDb",
-      "Node Js",
-      "Express Js",
-      "Redux",
-      "NodeMailer",
+      "Next Js",
+      "React",
+      "TypeScript",
+      "Tailwind",
+      "Auth Js",
+      "Many More",
     ],
     category: "web app",
-    github: "https://github.com/rishavchanda/Project-Management-App",
-    webapp: "https://vexa-app.netlify.app/",
+    github: "https://github.com/TheAnkushshah/oibsip_taskno",
+    webapp: "https://go-verify.vercel.app/",
     member: [
       {
         name: "Ankush Shah",
@@ -909,16 +1084,16 @@ export const projects = [
   },
   {
     id: 0,
-    title: "Tic Tac Toe",
-    date: "Feb 2019 - May 2019",
+    title: "FOODU",
+    date: "Nov 2022 - Present",
     description:
-      "Built a Tic Tac Toe game! This android application brings the timeless joy of this strategic board game to your fingertips. Challenge a friend or test your wits against the computer as you strive to achieve victory in this ultimate Xs and Os showdown.",
+      "Built an Indian multinational restaurant aggregator and food delivery company. It was founded by Ankush Shah in 2022. This dynamic web application is designed to streamline interactions between users and us. With a responsive user interface, users can seamlessly access information, interact, and order food.",
     image:
-      "https://i.ytimg.com/vi/9AUCqrp9G3o/maxresdefault.jpg",
-    tags: ["HTML5", "CSS3", "JavaScript", "Tiiny.host", "WEB-INTO-APP"],
-    category: "android app",
-    github: "https://github.com/rishavchanda/Podstream",
-    webapp: "https://podstream.netlify.app/",
+      "https://github.com/TheAnkushshah/FOODU/blob/main/Contru.png?raw=true",
+    tags: ["Next Js", "React", "HTML5", "JavaScript", "CSS3", "Many More"],
+    category: "web app",
+    github: "https://github.com/TheAnkushshah/FOODU",
+    webapp: "https://thefoodu.vercel.app/",
     member: [
       {
         name: "Ankush Shah",
@@ -930,16 +1105,16 @@ export const projects = [
   },
   {
     id: 5,
-    title: "To Do List",
+    title: "Yup or Nope",
     date: "Jun 2021",
     description:
-      " A To Do Web App made with React JS, Redux, and Material UI. It has a login page where users can log in with their Google account. It has a sidebar where users can see all the tasks and can create a new task. It has a calendar where users can see all the tasks on a particular date. It has a search bar where users can search for a particular task.",
+      "Built with the latest Next.js and JavaScript, this project stands for tracking and marking attendance, a widely required tool for institutions. It enables teachers to securely log in, adding students and their information, marking attendance by checking boxes and access various functionalities such as report sharing and downloading.",
     image:
-      "https://camo.githubusercontent.com/84ac6ab6f378348ef28d8184062b7e9e3511a1252ae3966eaa49e8e998f732a7/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f746f646f2d6170702d63386331392e61707073706f742e636f6d2f6f2f53637265656e73686f74253230283938292e706e673f616c743d6d6564696126746f6b656e3d33643335646366322d626666322d343730382d393031632d343232383866383332386633",
-    tags: ["React Js", "Local Storage", "AWS Auth", "Node JS"],
+      "https://github.com/TheAnkushshah/Yup-or-Nope/raw/main/public/ball.png",
+    tags: ["Kinde", "Neon", "Postgresql", "Tailwind", "Drizzle", "React", "Many More"],
     category: "web app",
-    github: "https://github.com/rishavchanda/Todo-Web-App",
-    webapp: "https://rishav-react-todo.netlify.app/",
+    github: "https://github.com/TheAnkushshah/Yup-or-Nope",
+    webapp: "https://yup-or-nope.vercel.app/",
     member: [
       {
         name: "Ankush Shah",
@@ -954,13 +1129,13 @@ export const projects = [
     title: "School Web App",
     date: "Jan 2024 - Mar 2024",
     description:
-      "I Proudly Crafted a Cutting-edge Web App with Html, CSS and JavaScript that Transforms Information Into Empowerment. Picture This - Students And Faculty Seamlessly Login/SignUp in to Personalized Dashboards, Where a World of Opportunities Unfolds. The School Broadcasts Upcoming Events, Competitions, And Holidays, While Teachers Effortlessly Share Assignments And Tests. It's A Virtual Nexus Of Collaboration, Where Students Proudly Showcase Their Work, And Teachers Nurture Academic Growth. This Isn't Just a Website; It's a Dynamic Platform Stitching. Our School Community Closer, Fostering A Digital Era of Shared Success And Limitless Possibilities!",
+      "I Proudly Crafted my school’s official website and app, integrated own multiple useful applications, including: Beyond - Social media platform to connect the entire campus, Room Meeting app for virtual collaboration and online classes, also to be safe from data breaches, Gossip - Messaging app for communication, Drove - Homework sharing app to streamline academic collaboration, Yup or Nope - Attendance app to manage classroom presence digitally, saving papers mean enviorment.",
     image:
-      "https://raw.githubusercontent.com/TheAnkushshah/Govt.ModelSanskritiSeniorSecondarySchool/main/Web%20App%20Home%20Page%20Preview.png",
-    tags: ["HTML5", "CSS3", "Node Js", "Express Js", "JavaScript"],
+      "https://github.com/TheAnkushshah/Govt.Model-Sanskriti-Senior-Secondary-School/blob/main/home%20copy.png?raw=true",
+    tags: ["Neon", "Convex", "React", "JavaScript", "Next Js", "Many More" ],
     category: "web app",
-    github: "https://github.com/rishavchanda/Podstream",
-    webapp: "https://podstream.netlify.app/",
+    github: "https://github.com/TheAnkushshah/Govt.Model-Sanskriti-Senior-Secondary-School",
+    webapp: "https://govt-model-sanskriti-senior-secondary-school.vercel.app/",
     member: [
       {
         name: "Ankush Shah",
