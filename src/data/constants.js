@@ -1,7 +1,7 @@
 export const Bio = {
   name: "Ankush Shah",
   roles: [
-    "Somphomore",
+    "Highschooler",
     "Entrepreneur",
     "Youtuber",
     "Programmer",
@@ -228,198 +228,332 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://media.licdn.com/dms/image/C560BAQHdtp6flEcf5g/company-logo_200_200/0/1631349516945?e=2147483647&v=beta&t=Yh5dmyWX5bUxdp1XqzeUcfOqXRMd1FtmfxDgWP_0QZ0",
-    role: "Workshop Lead",
-    company: "Ullas Trust",
-    date: "Dec 2022 - Present • 1 year 2 months",
-    desc: "Workshop Lead: 🏆 Won a scholarship in class 9th by Ullas Trust in competitive math and science exams & For that🎓 Awarded a four-year workshop lead opportunity.",
+    img: "https://media.licdn.com/dms/image/v2/C560BAQHo2CEDYetiZQ/company-logo_100_100/company-logo_100_100/0/1672651956292/notion_press_logo?e=2147483647&v=beta&t=nB98Xd9sHoXnmTEQGX_aMWBYMDOh6nIPUkADeZ6rYyI",
+    role: "Author",
+    company: "Notion Press",
+    date: "Aug 2024 - Present • 2 months",
+    desc: (
+      <>
+      Writing a book on the journey as a teenager sharing the true experiences, true ideology and last but the least how our social life should be. <br />
+      <br />
+      It has 3 Parts - (1) Being a mad mind! (2) Lifestyle as teen (3) The Social life First segment contains more than 10 chapters, second segment contains 8+ chapters and last segment have 5+ chapters. In total the book has more than 300+ pages. <br />
+      <br />
+      The book is available on Notion Press's official website also on all e-commerce web and apps, Paperback, hardcover and E-version all are live. <br />
+      <br />
+      Got the Author tag at just 15 <br />
+      <br />
+      Covering all aspects of life - Personal, True Ideology and Professional.
+      </>
+    ),
     skills: [
-      "Critical Thinking",
+      "Creative Writing",
+      "Proposal Writing",
+      "Vocabulary Development",
+    ],
+    docs: ["https://media.licdn.com/dms/image/sync/v2/D4D22AQHjp97zEIjATQ/feedshare-shrink_160/feedshare-shrink_160/0/1715737842539?e=1729728000&v=beta&t=affqVP8M3w78zISdDytg_WbOQ9vJ33oGjQ6xLnUZuGk"]
+  },
+  {
+    id: 1,
+    img: "https://media.licdn.com/dms/image/v2/D560BAQFASBXXvFxi7g/company-logo_100_100/company-logo_100_100/0/1723803530256/fooduofficial_logo?e=1735171200&v=beta&t=sxN_xr0xeJb22aiTrqeDGMFm-L8lVB9rB3zlilhRJ7I",
+    role: "Founder & CEO",
+    company: "FOODU",
+    date: "Nov 2022 - Present • 1 year 11 months",
+    desc: "Revolutionizing Online Food Ordering with Innovative Features, A Unique Business Model, & A Heartfelt Initiative – Till Now Provided Meals to Over 1,00,000+ Homeless People.",
+    skills: [
+      "Problem Solving",
+      "Social Media Marketing",
+      "Leadership",
+      "Brand Building",
+      "Programming",
+    ],
+    docs:["https://media.licdn.com/dms/image/v2/D562DAQFTX_a3aA4_3g/profile-treasury-image-shrink_160_160/profile-treasury-image-shrink_160_160/0/1722618690526?e=1727694000&v=beta&t=UdJpIC4fzsYND_B28vQ_sBJ37k_poKbpzVVroMfKfPo",
+  ]
+  },
+  {
+   id: 2,
+   img: "https://media.licdn.com/dms/image/v2/C560BAQHdtp6flEcf5g/company-logo_100_100/company-logo_100_100/0/1631349516945?e=1735171200&v=beta&t=PP1BdD9R-Z55AjKZo_XskVZuaQnOvcAuu3qYwvCRQXY",
+    role: "Workshop Lead Volunteer",
+    company: "Ullas Trust",
+    date: "Dec 2022 - Present • 1 year 10 months",
+    desc: (
+      <>
+      Won a scholarship in class 9th by Ullas Trust in competitive maths and science exams & for that awarded a four-years of students mental health workshop led opportunity. <br />
+      <br />
+      Leading the development and execution of a long-term, 4 workshop series aimed at supporting the personal and professional growth of selected students, conducted every weekend. <br />
+      <br />
+      Daily depth discussions on mental health, emotional well-being, success strategies and personal development, positively impacting 100+ students. <br />
+      <br />
+      Organising interactive activities and mentorship opportunities that encouraged students to build resilience, confidence, and adaptability in both academic and personal spheres. <br />
+      <br />
+      Collaborated with mental health experts and motivational speakers to offer diverse perspectives and actionable insights for students' holistic development. <br />
+      <br />
+      Spearheaded outreach and awareness campaigns, increasing student engagement and ensuring the program's positive reputation within the community. <br />
+      <br />
+      Monitoring students growth, leveraging feedback to refine the workshop content for greater impact.
+      </>
+    ),
+    skills: [
       "Communication",
       "Team Building",
       "Teamwork",
-      "Cross-Functonal Team Leadership",
+      "Critical Thinking",
+      "Cross-Functional Team Leadership",
     ],
-    docs: ["https://media.licdn.com/dms/image/D4D22AQHTjcVhzoOP0A/feedshare-shrink_800/0/1706639219031?e=2147483647&v=beta&t=bGONYxFtcdprIubgySHx2uFuu97Sru-qxNtTmYeJmeM",
-    "https://media.licdn.com/dms/image/D4D22AQHtjLbp3NzvTQ/feedshare-shrink_800/0/1706639215362?e=2147483647&v=beta&t=b3SkUe5Alb0JRkeF4_W4edDEm3af6ie6oU4cIaLbZgA",
-    "https://media.licdn.com/dms/image/D4D22AQEfNq2q6_JLWw/feedshare-shrink_800/0/1706639215128?e=2147483647&v=beta&t=eV-4q1zvhmt2Hb4f0kjoQDyB5TMLtVJGxbLtgD6VDEo",
-    "https://theankushshah.github.io/Govt.ModelSanskritiSeniorSecondarySchool/HomePage/Community.png",
+    docs: ["https://media.licdn.com/dms/image/v2/D562DAQHJXfAceORAIA/profile-treasury-image-shrink_160_160/profile-treasury-image-shrink_160_160/0/1709840850893?e=1727694000&v=beta&t=K7_LZfOoyjnvrdHO0w2rH75XkTdbIkFN3TdUpNiAToQ",
+  "https://media.licdn.com/dms/image/sync/v2/D4D22AQHTjcVhzoOP0A/feedshare-shrink_160/feedshare-shrink_160/0/1706639219031?e=1729728000&v=beta&t=WqQsE2SDTs-k8pNPPzolO8eTAHlYZGO_52g9QpONE-A",
   ]
   },
   {
-    id: 0,
-    img: "https://media.licdn.com/dms/image/C560BAQHdtp6flEcf5g/company-logo_200_200/0/1631349516945?e=2147483647&v=beta&t=Yh5dmyWX5bUxdp1XqzeUcfOqXRMd1FtmfxDgWP_0QZ0",
+    id: 3,
+    img: "https://media.licdn.com/dms/image/v2/C560BAQHdtp6flEcf5g/company-logo_100_100/company-logo_100_100/0/1631349516945?e=1735171200&v=beta&t=PP1BdD9R-Z55AjKZo_XskVZuaQnOvcAuu3qYwvCRQXY",
     role: "Scholarship Holder",
     company: "Ullas Trust",
-    date: "Aug 2022 - Present • 1 year 6 months",
-    desc: "Scholarship Recipient: 📚 Won a scholarship in class 9th by Ullas Trust in competitive math and science exam.🎓Rewarded a four-year Scholarship - Standard 9th - 12th",
+    date: "Aug 2022 - Present • 2 years 2 months",
+    desc: "Won a scholarship in class 9th by Ullas Trust in competitive state level maths and science exam. Rewarded a four-year Scholarship - Standard 9th - 12th",
     skills: [
-      "Problem Sloving",
       "Critical Thinking",
-    ],
-    docs:["https://media.licdn.com/dms/image/D4D22AQGqfPBs-qoVTQ/feedshare-shrink_800/0/1706637346920?e=2147483647&v=beta&t=pEhsqRKzCCbwJVdh7ka7XhODeWeF5DbOVzUOkWuIqVo",
-  ]
-  },
-  {
-   id: 1,
-   img: "https://media.licdn.com/dms/image/D4D0BAQHCHktxrKR21g/company-logo_100_100/0/1691330303463?e=2147483647&v=beta&t=BolYaAblLSFJArPfaMkVLk3AjbHZCwBY0YCMfy11JhM",
-    role: "Founder & CEO",
-    company: "Last Forevers",
-    date: "Mar 2023 - Present • 11 months",
-    desc: "Pioneering 🤌🏻 Affordable Luxury Jewelry Since March 2023, Our Vision is to 🎯 Make Luxurious Jewelry Accessible with a New Level of Branding & Unmatched Affordability.",
-    skills: [
-      "Merchant Services",
-      "Product Management",
-      "Product Development",
-      "Brand Building",
-      "Product Service",
-      "Product Design",
-      "Cross-Functional Team Leadership",
-      "Teamwork",
-      "Full-Stack Development",
-    ],
-    docs: ["https://media.licdn.com/dms/image/D5622AQG8RLyUrbvA0g/feedshare-shrink_2048_1536/0/1706557334337?e=2147483647&v=beta&t=xLg-9dhQ_qyse2GzI5E2WLHJ8g3EykwlHBU58D-I_hk",
-  "https://media.licdn.com/dms/image/D5622AQHUkWK3LSwbTg/feedshare-shrink_2048_1536/0/1706557334545?e=2147483647&v=beta&t=MzChtQrOUqlz78ePOnW9uxydT-yQKAB6JCUmmA8ogQM",
-  ]
-  },
-  {
-    id: 2,
-    img: "https://media.licdn.com/dms/image/D4D0BAQGj8lEkzN0WaQ/company-logo_100_100/0/1691330342832?e=2147483647&v=beta&t=tXJGCT3tmb1qn5vXYcfOLwLsmP-Tempev6wtiz6pEgo",
-    role: "Founder & CEO",
-    company: "FOODU",
-    date: "Jan 2022 - Present • 2 years 1 month",
-    desc: "Revolutionizing Online Food 🍜 Ordering with Innovative Features 👀, A Unique Business Model, & A Heartfelt Initiative – Till Now Provided Meals to Over 1000+ Homeless People.",
-    skills: [
-      "Social Media Marketing",
       "Problem Solving",
-      "Presentation Skills",
-      "Leadership",
-      "Brand Building",
-      "Cross-Functional Team Leadership",
-      "Full-Stack Development",
     ],
-    docs: ["https://media.licdn.com/dms/image/D5622AQHSvx5EOj2TQg/feedshare-shrink_2048_1536/0/1706557432204?e=2147483647&v=beta&t=GGcrkI_NW22QbfHCrw-nZKmNaL-ZwgB1QqTClDbQCZg",
-  "https://media.licdn.com/dms/image/D5622AQEccGizHhOFKg/feedshare-shrink_2048_1536/0/1706557432132?e=2147483647&v=beta&t=-DZJFRPRwWB2TywieZujpQsrIzey9Q-6c4p0nJunU18",
-  ]
-  },
-  {
-    id: 3,
-    img: "https://media.licdn.com/dms/image/D560BAQFUpg-8afMhoQ/company-logo_100_100/0/1690912561890/govt_model_sanskriti_senior_secondary_school_logo?e=2147483647&v=beta&t=Sf9K8qO7gpe4sffTA0VAUnBsKHGK4cOcB1VQVqs1W58",
-    role: "Computer Science Club President",
-    company: "Govt.Model Sanskriti Senior Secondary School",
-    date: "Jan 2022 - Present • 2 years 1 month",
-    desc: "President, High School Computer Science Club: 🗳️ Elected Club President in class 9th for a 4-year term through competitive elections. Recognized for outstanding projects, fests, competitions, and workshops.",
-    skills: [
-      "Problem Solving",
-      "Full-Stack Development",
-      "Leadership",
-    ],
-    doc: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/1691181448873.jpeg?alt=media&token=ee85eb8f-7247-43cd-9a1d-ce9f58ea62a6",
-  },
-  {
-    id: 3,
-    img: "https://media.licdn.com/dms/image/D560BAQFUpg-8afMhoQ/company-logo_100_100/0/1690912561890/govt_model_sanskriti_senior_secondary_school_logo?e=2147483647&v=beta&t=Sf9K8qO7gpe4sffTA0VAUnBsKHGK4cOcB1VQVqs1W58",
-    role: "Inter-School Journalist",
-    company: "Govt.Model Sanskriti Senior Secondary School",
-    date: "Jan 2022 - Present • 2 years 1 month",
-    desc: "Inter-School Journalist: 🗞️ Reporting on Tech and Finance, organizing debates, and tech competitions.🏆 Awarded as Best Journalist in Tech and Finance.",
-    skills: [
-      "Presentation Skills",
-      "Debate",
-      "Communication",
-      "Research Skills",
-    ],
-    doc: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/1691181448873.jpeg?alt=media&token=ee85eb8f-7247-43cd-9a1d-ce9f58ea62a6",
+    docs: ["https://media.licdn.com/dms/image/sync/v2/D4D22AQGqfPBs-qoVTQ/feedshare-shrink_160/feedshare-shrink_160/0/1706637346919?e=1729728000&v=beta&t=GGBtxe-tLBgUPKmw1cT16mjOhoA6iJGAFFkb5T9Ov8s",]
   },
   {
     id: 4,
-    img: "https://media.licdn.com/dms/image/D4D0BAQH4TQeqz8HKyA/company-logo_100_100/0/1691333597178?e=2147483647&v=beta&t=EMRLMBV1c10IWvlWrimyy4VJ9E2ddZN8Fdv60ocEJ9s",
+    img: "https://media.licdn.com/dms/image/v2/D560BAQHUD5CakC7zcg/company-logo_100_100/company-logo_100_100/0/1708739775186?e=1735171200&v=beta&t=ory1lmFZmM6khYZZfXysutY6WsQpLvmnNEVfcUsdGEQ",
     role: "Founder & CEO",
-    company: "Fad Production",
-    date: "Aug 2021 - Present • 2 years 6 months",
-    desc: "Emphasizing ✨ Top-Notch Quality, We're Committed To Delivering 🚚 Engaging & Diverse Content, Catering to a Wide Range of Audience Interests.",
+    company: "Last Forevers",
+    date: "Mar 2023 - Present • 1 year 7 months",
+    desc: "Pioneering Affordable Luxury Jewelry Since March 2023, Our Vision is to Make Luxurious Jewelry Accessible with a New Level of Branding & Unmatched Affordability.",
     skills: [
-      "Presentation Skills",
-      "Video Editing",
-      "Film Production",
-      "Digital Marketing",
-      "Strategic Initiatives",
-      "Graphic Design",
-      "Creative Content Creation",
-      "Research Skills",
+      "Problem Solving",
+      "Teamwork",
+      "Product Design",
+      "Product Service",
+      "Brand Building",
+      "Programming",
+    ],
+    docs:["https://scontent.fdel6-1.fna.fbcdn.net/v/t39.30808-6/428326505_122190700466003116_8744543191511732554_n.jpg?stp=dst-jpg_p480x480&_nc_cat=108&ccb=1-7&_nc_sid=833d8c&_nc_ohc=pRUvkFH_LpUQ7kNvgHlrwXP&_nc_ht=scontent.fdel6-1.fna&_nc_gid=AqeR_1jUUyyD-qjdNcs2Ftd&oh=00_AYBkUkIJCxwR4T0B9ThSHxRvwseyQElKfVkkslHezB6aBg&oe=66F7316D",
+      "https://scontent.fdel6-1.fna.fbcdn.net/v/t39.30808-6/428469351_122190700340003116_4413100289990404979_n.jpg?stp=dst-jpg_p480x480&_nc_cat=103&ccb=1-7&_nc_sid=833d8c&_nc_ohc=nGN-n77njIcQ7kNvgHOekKh&_nc_ht=scontent.fdel6-1.fna&_nc_gid=AqeR_1jUUyyD-qjdNcs2Ftd&oh=00_AYCQ4VSz561MwMwCbceTHK5narvpdxa_yovDDNldO_9tiQ&oe=66F736F3",
+  ]
+  },
+  {
+    id: 5,
+    img: "https://media.licdn.com/dms/image/D560BAQFUpg-8afMhoQ/company-logo_100_100/0/1690912561890/govt_model_sanskriti_senior_secondary_school_logo?e=2147483647&v=beta&t=Sf9K8qO7gpe4sffTA0VAUnBsKHGK4cOcB1VQVqs1W58",
+    role: "President",
+    company: "Govt.Model Sanskriti Senior Secondary School",
+    date: "Jan 2022 - Present • 2 years 9 months",
+    desc: (
+      <>
+      Awarded as Best President of the Period for exemplary leadership and significant contributions to the club's growth and success. <br />
+      <br />
+      Elected as President for Computer Science Club in class 9th for a 4-year term through competitive elections, demonstrating leadership and commitment to advancing STEM education. <br />
+      <br />
+      Took on numerous projects, fests, science fairs, competitions, and workshops, recognised for innovation and impact on the school’s tech community. Then also organised and led workshops on coding, robotics, and emerging technologies, fostering a culture of hands-on learning and experimentation. <br />
+      <br />
+      Coordinated inter-school tech fests and competitions, increasing club participation and enhancing the club’s reputation within the academic community.  <br />
+      <br />
+      Guided club members through high-impact projects, encouraging collaboration, creativity, and problem-solving in computer science and robotics. <br />
+      <br />
+      Built the school’s official website and app, integrated own multiple useful applications, including: <br />
+      <br />
+      Beyond - Social media platform to connect the entire campus.<br />
+      Room - Meeting app for virtual collaboration and online classes, also to be safe from data breaches.<br />
+      Gossip - Messaging app for communication.<br />
+      Drove - Homework sharing app to streamline academic collaboration.<br />
+      Yup or Nope - Attendance app to manage classroom presence digitally, saving papers mean enviorment.
+      </>
+    ),
+    skills: [
+      "Problem Solving",
       "Full-Stack Development",
+      "Leadership",
+      "AI",
+      "ML",
+      "Robotics",
+      "DevOps",
     ],
-    docs: ["https://media.licdn.com/dms/image/D5622AQHA7Q5XX6Cwmw/feedshare-shrink_2048_1536/0/1706557552328?e=2147483647&v=beta&t=o5GXe8uS1lYsaRwwgNy_FCjzmqTzFA9cO_qnbZQRi9c",
-  "https://media.licdn.com/dms/image/D5622AQEuOgDkCShrdA/feedshare-shrink_2048_1536/0/1706557552558?e=2147483647&v=beta&t=TPscUMhIzUQ90fm6vy4flX5aui70bmtyTm11vZ3ifxI",
-  ]
-  },
-  {
-    id: 5,
-    img: "https://media.licdn.com/dms/image/C4D0BAQEfoRsyU4yUzg/company-logo_100_100/0/1631053379845/youtube_logo?e=2147483647&v=beta&t=sVF3n4GcwyMY27cjzNDawR8-UweqBDEj5fwO3sFZSZY",
-    role: "Content Creator - Podcaster",
-    company: "Youtube",
-    date: "Jan 2021 - Present • 3 years 1 month",
-    desc: "Unlock Success🏅Stories Across Diverse Fields on Decode with Alex. Join us 🤝🏻 for Inspiring Conversations with Accomplished Individuals, From Entrepreneurs to Artists. Learn, Be Motivated, & Explore the Journeys to Success!",
-    skills: [
-      "Content Creation",
-      "Podcasting",
-      "Research Skills",
-      "Growth Hacking",
-    ],
-    docs: ["https://media.licdn.com/dms/image/D5622AQHA7Q5XX6Cwmw/feedshare-shrink_2048_1536/0/1706557552328?e=2147483647&v=beta&t=o5GXe8uS1lYsaRwwgNy_FCjzmqTzFA9cO_qnbZQRi9c",
-  "https://media.licdn.com/dms/image/D5622AQEuOgDkCShrdA/feedshare-shrink_2048_1536/0/1706557552558?e=2147483647&v=beta&t=TPscUMhIzUQ90fm6vy4flX5aui70bmtyTm11vZ3ifxI",
-  ]
-  },
-  {
-    id: 5,
-    img: "https://media.licdn.com/dms/image/C4D0BAQEfoRsyU4yUzg/company-logo_100_100/0/1631053379845/youtube_logo?e=2147483647&v=beta&t=sVF3n4GcwyMY27cjzNDawR8-UweqBDEj5fwO3sFZSZY",
-    role: "Content Creator - Vlogger",
-    company: "Youtube",
-    date: "Oct 2020 - Present • 3 years 4 month",
-    desc: "Step Into 🧖🏻 the Captivating World with Us! Embark On Thrilling Adventures, Witness Awe-Inspiring Moments, & ❄️ Embrace the Essence of Life Through My Lens. Your Ticket to a Vibrant, Extraordinary Journey Awaits!",
-    skills: [
-      "Content Creation",
-      "Vlogging",
-      "Research Skills",
-      "Growth Hacking",
-    ],
-    docs: ["https://media.licdn.com/dms/image/D5622AQHA7Q5XX6Cwmw/feedshare-shrink_2048_1536/0/1706557552328?e=2147483647&v=beta&t=o5GXe8uS1lYsaRwwgNy_FCjzmqTzFA9cO_qnbZQRi9c",
-  "https://media.licdn.com/dms/image/D5622AQEuOgDkCShrdA/feedshare-shrink_2048_1536/0/1706557552558?e=2147483647&v=beta&t=TPscUMhIzUQ90fm6vy4flX5aui70bmtyTm11vZ3ifxI",
-  "https://media.licdn.com/dms/image/D5622AQFX9s2i5SFlJA/feedshare-shrink_2048_1536/0/1706726121455?e=2147483647&v=beta&t=__u-cbGQC7ReZfCiwiSZ87a-XIUuT9kr2OqceBifO2U",
-  ]
-  },
-  {
-    id: 5,
-    img: "https://media.licdn.com/dms/image/C4D0BAQEfoRsyU4yUzg/company-logo_100_100/0/1631053379845/youtube_logo?e=2147483647&v=beta&t=sVF3n4GcwyMY27cjzNDawR8-UweqBDEj5fwO3sFZSZY",
-    role: "Content Creator - Gamer",
-    company: "Youtube",
-    date: "Feb 2020 - Present • 4 years",
-    desc: "Dive Into the Heart of Gaming With Us! Level Up Your Entertainment as We Explore 🐥 the Latest Titles, Conquer Epic Challenges, and Unravel the Excitement of the Gaming Universe. Every Play Is an Epic Win!🏆",
-    skills: [
-      "Content Creation",
-      "Gaming",
-      "Research Skills",
-      "Growth Hacking",
-    ],
-    docs: ["https://media.licdn.com/dms/image/D5622AQHA7Q5XX6Cwmw/feedshare-shrink_2048_1536/0/1706557552328?e=2147483647&v=beta&t=o5GXe8uS1lYsaRwwgNy_FCjzmqTzFA9cO_qnbZQRi9c",
-  "https://media.licdn.com/dms/image/D5622AQEuOgDkCShrdA/feedshare-shrink_2048_1536/0/1706557552558?e=2147483647&v=beta&t=TPscUMhIzUQ90fm6vy4flX5aui70bmtyTm11vZ3ifxI",
-  "https://media.licdn.com/dms/image/D5622AQEItU4DfO7RDw/feedshare-shrink_2048_1536/0/1706726254655?e=2147483647&v=beta&t=cXsmTeId5Hq76fRod34IK8cjmR9omM7efq5RwoL4OPo",
+    docs:["https://github.com/TheAnkushshah/Govt.Model-Sanskriti-Senior-Secondary-School/blob/main/home.png?raw=true",
+      "https://github.com/TheAnkushshah/Govt.Model-Sanskriti-Senior-Secondary-School/blob/main/home2.png?raw=true",
+      "https://github.com/TheAnkushshah/Govt.Model-Sanskriti-Senior-Secondary-School/blob/main/home3.png?raw=true",
+      "https://github.com/TheAnkushshah/Govt.Model-Sanskriti-Senior-Secondary-School/blob/main/home4.png?raw=true",
+      "https://github.com/TheAnkushshah/Govt.Model-Sanskriti-Senior-Secondary-School/blob/main/home5.png?raw=true",
+      "https://github.com/TheAnkushshah/Govt.Model-Sanskriti-Senior-Secondary-School/blob/main/home6.png?raw=true",
   ]
   },
   {
     id: 6,
+    img: "https://media.licdn.com/dms/image/D560BAQFUpg-8afMhoQ/company-logo_100_100/0/1690912561890/govt_model_sanskriti_senior_secondary_school_logo?e=2147483647&v=beta&t=Sf9K8qO7gpe4sffTA0VAUnBsKHGK4cOcB1VQVqs1W58",
+    role: "Journalist",
+    company: "Govt.Model Sanskriti Senior Secondary School",
+    date: "Jan 2019 - Present • 5 years 9 months",
+    desc: (
+      <>
+      Awarded as Best Journalist in Tech and Finance for exceptional reporting and contributions to school publications. <br />
+      <br />
+      Reported extensively on technology and finance, providing in-depth analysis and insights that resonated with the student body.<br /> 
+      <br />
+      Organised and led debates and tech competitions, promoting intellectual discourse and engagement within the school community. <br />
+      <br />
+      Built and managed the school’s official website and app, improving digital accessibility and user experience. Authored and published over 100 blogs on the school website, covering diverse subjects and solidifying a strong presence in school journalism. <br />
+      </>
+    ),
+    skills: [
+      "Presentation",
+      "Debate",
+      "Communication",
+      "Research",
+    ],
+    docs:["https://github.com/TheAnkushshah/Govt.Model-Sanskriti-Senior-Secondary-School/blob/main/home4.png?raw=true",
+      "https://github.com/TheAnkushshah/Govt.Model-Sanskriti-Senior-Secondary-School/blob/main/blog.png?raw=true",
+      "https://github.com/TheAnkushshah/Govt.Model-Sanskriti-Senior-Secondary-School/blob/main/blog2.png?raw=true",
+      "https://github.com/TheAnkushshah/Govt.Model-Sanskriti-Senior-Secondary-School/blob/main/blog3.png?raw=true",
+      "https://github.com/TheAnkushshah/Govt.Model-Sanskriti-Senior-Secondary-School/blob/main/blog4.png?raw=true",
+      "https://github.com/TheAnkushshah/Govt.Model-Sanskriti-Senior-Secondary-School/blob/main/blog5.png?raw=true",
+      "https://github.com/TheAnkushshah/Govt.Model-Sanskriti-Senior-Secondary-School/blob/main/blog6.png?raw=true",
+  ]
+  },
+  {
+    id: 7,
+    img: "https://media.licdn.com/dms/image/v2/D560BAQFmZ0S_Fm164g/company-logo_100_100/company-logo_100_100/0/1708712942624?e=1735171200&v=beta&t=HIevjqOAP7jIDiijEioVmCVg5z7KB7yMgqsN7DOgc24",
+    role: "Managing Director",
+    company: "Fad Production",
+    date: "Aug 2021 - Present • 3 years 2 months",
+    desc: (
+      <>
+      Oversee the production and delivery of high-quality, engaging YouTube content, ensuring it meets top-notch standards and appeals to diverse audience interests. <br />
+      <br />
+      Lead a creative team to develop and produce a wide range of video content, from educational and informative to entertainment and lifestyle, catering to various viewer preferences. <br /> 
+      <br />
+      Implement strategic initiatives to enhance content quality and production efficiency, driving audience engagement and growth. Manage project timelines, budgets, and resources to deliver content on schedule while maintaining high standards of production. <br />
+      <br />
+      Foster relationships with content creators, influencers, and industry professionals to expand the company’s network and enhance content reach. <br />
+      <br />
+      Monitor industry trends and audience feedback to continuously innovate and adapt content strategies, ensuring relevance and viewer satisfaction.
+      </>
+    ),
+    skills: [
+      "Film Production",
+      "Strategic Initiatives",
+      "Creative Content Creation",
+      "Graphic Design",
+      "Research Skills",
+    ],
+  },
+  {
+    id: 8,
+    img: "https://media.licdn.com/dms/image/C4D0BAQEfoRsyU4yUzg/company-logo_100_100/0/1631053379845/youtube_logo?e=2147483647&v=beta&t=sVF3n4GcwyMY27cjzNDawR8-UweqBDEj5fwO3sFZSZY",
+    role: "Podcaster",
+    company: "Youtube",
+    date: "Jan 2021 - Present • 3 years 9 months",
+    desc: "Join us for Inspiring Conversations with mind blowing Individuals. Learn, Be Motivated, & Explore the Journeys to Success!",
+    skills: [
+      "Podcasting",
+    ],
+  },
+  {
+    id: 9,
+    img: "https://media.licdn.com/dms/image/C4D0BAQEfoRsyU4yUzg/company-logo_100_100/0/1631053379845/youtube_logo?e=2147483647&v=beta&t=sVF3n4GcwyMY27cjzNDawR8-UweqBDEj5fwO3sFZSZY",
+    role: "Vlogger",
+    company: "Youtube",
+    date: "Oct 2020 - Present • 4 years",
+    desc: "Moments & Embrace the Essence of Life Through My Lens. Your Ticket to a Vibrant, Extraordinary Journey Awaits!",
+    skills: [
+      "Vlogging",
+    ],
+  },
+  {
+    id: 10,
+    img: "https://media.licdn.com/dms/image/C4D0BAQEfoRsyU4yUzg/company-logo_100_100/0/1631053379845/youtube_logo?e=2147483647&v=beta&t=sVF3n4GcwyMY27cjzNDawR8-UweqBDEj5fwO3sFZSZY",
+    role: "Gamer",
+    company: "Youtube",
+    date: "Feb 2020 - Present • 4 years 8 months",
+    desc: "Conquer Epic Challenges, and Unravel the Excitement of the Gaming Universe. Every Play Is an Epic Win!",
+    skills: [
+      "Gaming",
+    ],
+  },
+  {
+    id: 11,
+    img: "https://media.licdn.com/dms/image/v2/D560BAQHpLjLLXqVGIQ/company-logo_100_100/company-logo_100_100/0/1719257632228?e=1735171200&v=beta&t=S40SAiiOcsI0xaEn7I0hlStwnmjiKY_SU4bi5oPtdG8",
+    role: "Fundraising Volunteer",
+    company: "Muskurahat Foundation",
+    date: "Jul 2024 - Aug 2024 • 2 months",
+    desc: (
+      <>
+      Raised more than 1 Lakh rupees + taught some coding related skills to the underprivileged children at Muskurahat Foundation. <br />
+      <br />
+      Pretty engaged in outreach campaigns to pull in, the potential donors, using personalised approaches to increase engagement and contributions at the same time collaborated with the NGO’s leadership to strategize and execute fundraising campaigns, achieving and exceeding set targets within two months. <br /> 
+      <br />
+      Led donor engagement efforts by communicating the impact of their every single contribution, looking for long-term relationships and trust. <br />
+      <br />
+      Developed and implemented innovative fundraising strategies, including social media advertisements, organised various underprivileged child care awareness programs and community-based events, to boost donations. <br />
+      <br />
+      Acted as a mentor to students, providing them with guidance and inspiration to pursue education and personal development.
+      </>
+    ),
+    skills: [
+      "Fundraising",
+      "Crowdfunding",
+      "Storytelling",
+    ],
+    docs:["/muskuoffer.png",
+      "/muskuvolun.png",
+      "/muskulor.png"
+    ]
+  },
+  {
+    id: 12,
+    img: "https://media.licdn.com/dms/image/v2/D560BAQHpLjLLXqVGIQ/company-logo_100_100/company-logo_100_100/0/1719257632228?e=1735171200&v=beta&t=S40SAiiOcsI0xaEn7I0hlStwnmjiKY_SU4bi5oPtdG8",
+    role: "Fundraising Volunteer",
+    company: "Muskurahat Foundation",
+    date: "Jul 2024 - Aug 2024 • 2 months",
+    desc: (
+      <>
+      Raised more than 1 Lakh rupees + taught some coding related skills to the underprivileged children at Muskurahat Foundation. <br />
+      <br />
+      Pretty engaged in outreach campaigns to pull in, the potential donors, using personalised approaches to increase engagement and contributions at the same time collaborated with the NGO’s leadership to strategize and execute fundraising campaigns, achieving and exceeding set targets within two months. <br /> 
+      <br />
+      Led donor engagement efforts by communicating the impact of their every single contribution, looking for long-term relationships and trust. <br />
+      <br />
+      Developed and implemented innovative fundraising strategies, including social media advertisements, organised various underprivileged child care awareness programs and community-based events, to boost donations. <br />
+      <br />
+      Acted as a mentor to students, providing them with guidance and inspiration to pursue education and personal development.
+      </>
+    ),
+    skills: [
+      "Fundraising",
+      "Crowdfunding",
+      "Storytelling",
+    ],
+    docs:["/muskuoffer.png",
+      "/muskuvolun.png",
+      "/muskulor.png"
+    ]
+  },
+  {
+    id: 11,
     img: "https://media.licdn.com/dms/image/C4D0BAQGJJptZDxUcpQ/company-logo_100_100/0/1631333058053?e=2147483647&v=beta&t=HCoBZ2ZIktU4whDpoVWSEEgXylo5ivpyu-e7gmCCY2I",
-    role: "Baseball Player",
+    role: "State Baseball Player",
     company: "Grand Slam Baseball",
     date: "Nov 2018 - Dec 2023 • 5 years 2 months",
-    desc: "5+ Years of Passion On Baseball Field with My School Team Under Grand Slam Baseball. From Local Matches to Nationals, I've Savored Every Inning. Concluded this Thrilling Chapter In December 2023.⚾",
+    desc: (
+      <>
+      5+ years of passion on the baseball field with the school team under Grand Slam Baseball. From local matches to state level tournaments. I've savoured every inning. <br />
+      <br />
+      Represented team in national-level competitions, honing skills and competing against top-tier teams across the country. Developed strong teamwork, leadership, and strategic thinking on the field, contributing to the team’s success and personal growth. <br /> 
+      <br />
+      Competed and won numerous medals at block, district, and state levels, demonstrating consistent high performance and dedication. Awarded "Captain of the Match" at the state level in November 2022, recognising outstanding effort and contribution during crucial games. <br />
+      <br />
+      Concluded this thrilling chapter in December 2023, reflecting on a rewarding journey filled with memorable innings and achievements. <br />
+      </>
+    ),
     skills: [
-      "Deep Thinking",
       "Baseball",
+      "Deep & Critical Thinking",
       "Leadership",
-      "Team Cordination",
+      "Team Building",
       "Teamwork",
     ],
+    docs:["https://media.licdn.com/dms/image/v2/D562DAQHEUmIVn6eDzA/profile-treasury-image-shrink_160_160/profile-treasury-image-shrink_160_160/0/1722134454196?e=1727701200&v=beta&t=vpa8VgCNI9cz6--96KtELszvkJxTpdO3PZi2M-kc4BA",]
   },
 ];
 
