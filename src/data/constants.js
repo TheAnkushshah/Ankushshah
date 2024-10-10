@@ -228,6 +228,29 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
+    img: "https://media.licdn.com/dms/image/v2/C4E0BAQEQA6VMfo8Giw/company-logo_100_100/company-logo_100_100/0/1631377493672/national_society_of_high_school_scholars_logo?e=1736380800&v=beta&t=LYtV75kt-WO5tmPJQ6lOIoN2iZwfv9-lGRuTA2egsfg",
+    role: "Member",
+    company: "The National Society of High School Scholars (NSHSS)",
+    date: "Sep 2024 - Present • 2 months",
+    desc: (
+      <>
+      Recognized for academic excellence and leadership potential through an exclusive membership with NSHSS. <br />
+      <br />
+      Engaged in mentorship and collaborative opportunities with fellow high-achieving students worldwide to develop innovative solutions for social and academic challenges. <br />
+      <br />
+      Leveraging NSHSS resources to organize and contribute to projects that promote academic success and leadership development within my school community.
+      </>
+    ),
+    skills: [
+      "Networking",
+      "Team Collaboration",
+      "Mentorship",
+      "Public Speaking"
+    ],
+    docs: ["https://media.licdn.com/dms/image/v2/D562DAQEQZw-HKmfUVg/profile-treasury-image-shrink_160_160/profile-treasury-image-shrink_160_160/0/1727800095338?e=1729148400&v=beta&t=s0WTGKBxF_3ViCJMrgI3bTsMAt-gCK6OipwUMcJuOhg"]
+  },
+  {
+    id: 1,
     img: "https://media.licdn.com/dms/image/v2/C560BAQHo2CEDYetiZQ/company-logo_100_100/company-logo_100_100/0/1672651956292/notion_press_logo?e=2147483647&v=beta&t=nB98Xd9sHoXnmTEQGX_aMWBYMDOh6nIPUkADeZ6rYyI",
     role: "Author",
     company: "Notion Press",
@@ -253,7 +276,7 @@ export const experiences = [
     docs: ["https://media.licdn.com/dms/image/sync/v2/D4D22AQHjp97zEIjATQ/feedshare-shrink_160/feedshare-shrink_160/0/1715737842539?e=1729728000&v=beta&t=affqVP8M3w78zISdDytg_WbOQ9vJ33oGjQ6xLnUZuGk"]
   },
   {
-    id: 1,
+    id: 2,
     img: "https://media.licdn.com/dms/image/v2/D560BAQFASBXXvFxi7g/company-logo_100_100/company-logo_100_100/0/1723803530256/fooduofficial_logo?e=1735171200&v=beta&t=sxN_xr0xeJb22aiTrqeDGMFm-L8lVB9rB3zlilhRJ7I",
     role: "Founder & CEO",
     company: "FOODU",
@@ -266,11 +289,11 @@ export const experiences = [
       "Brand Building",
       "Programming",
     ],
-    docs:["https://media.licdn.com/dms/image/v2/D562DAQFTX_a3aA4_3g/profile-treasury-image-shrink_160_160/profile-treasury-image-shrink_160_160/0/1722618690526?e=1727694000&v=beta&t=UdJpIC4fzsYND_B28vQ_sBJ37k_poKbpzVVroMfKfPo",
+    docs:["https://media.licdn.com/dms/image/v2/D562DAQFTX_a3aA4_3g/profile-treasury-image-shrink_160_160/profile-treasury-image-shrink_160_160/0/1722618690526?e=1729148400&v=beta&t=mDXY6dCmW-rSXIeHSiY1LNnhesNy0cieOuO4G7P0WgI",
   ]
   },
   {
-   id: 2,
+   id: 3,
    img: "https://media.licdn.com/dms/image/v2/C560BAQHdtp6flEcf5g/company-logo_100_100/company-logo_100_100/0/1631349516945?e=1735171200&v=beta&t=PP1BdD9R-Z55AjKZo_XskVZuaQnOvcAuu3qYwvCRQXY",
     role: "Workshop Lead Volunteer",
     company: "Ullas Trust",
@@ -299,12 +322,12 @@ export const experiences = [
       "Critical Thinking",
       "Cross-Functional Team Leadership",
     ],
-    docs: ["https://media.licdn.com/dms/image/v2/D562DAQHJXfAceORAIA/profile-treasury-image-shrink_160_160/profile-treasury-image-shrink_160_160/0/1709840850893?e=1727694000&v=beta&t=K7_LZfOoyjnvrdHO0w2rH75XkTdbIkFN3TdUpNiAToQ",
+    docs: ["https://media.licdn.com/dms/image/v2/D562DAQHJXfAceORAIA/profile-treasury-image-shrink_160_160/profile-treasury-image-shrink_160_160/0/1709840850893?e=1729148400&v=beta&t=AdnbDpvE7ZKeuzNMeI2YEIEoXdHAsFWdSUdgff8XeKk",
   "https://media.licdn.com/dms/image/sync/v2/D4D22AQHTjcVhzoOP0A/feedshare-shrink_160/feedshare-shrink_160/0/1706639219031?e=1729728000&v=beta&t=WqQsE2SDTs-k8pNPPzolO8eTAHlYZGO_52g9QpONE-A",
   ]
   },
   {
-    id: 3,
+    id: 4,
     img: "https://media.licdn.com/dms/image/v2/C560BAQHdtp6flEcf5g/company-logo_100_100/company-logo_100_100/0/1631349516945?e=1735171200&v=beta&t=PP1BdD9R-Z55AjKZo_XskVZuaQnOvcAuu3qYwvCRQXY",
     role: "Scholarship Holder",
     company: "Ullas Trust",
@@ -317,7 +340,7 @@ export const experiences = [
     docs: ["https://media.licdn.com/dms/image/sync/v2/D4D22AQGqfPBs-qoVTQ/feedshare-shrink_160/feedshare-shrink_160/0/1706637346919?e=1729728000&v=beta&t=GGBtxe-tLBgUPKmw1cT16mjOhoA6iJGAFFkb5T9Ov8s",]
   },
   {
-    id: 4,
+    id: 5,
     img: "https://media.licdn.com/dms/image/v2/D560BAQHUD5CakC7zcg/company-logo_100_100/company-logo_100_100/0/1708739775186?e=1735171200&v=beta&t=ory1lmFZmM6khYZZfXysutY6WsQpLvmnNEVfcUsdGEQ",
     role: "Founder & CEO",
     company: "Last Forevers",
@@ -331,12 +354,13 @@ export const experiences = [
       "Brand Building",
       "Programming",
     ],
-    docs:["https://scontent.fdel6-1.fna.fbcdn.net/v/t39.30808-6/428326505_122190700466003116_8744543191511732554_n.jpg?stp=dst-jpg_p480x480&_nc_cat=108&ccb=1-7&_nc_sid=833d8c&_nc_ohc=pRUvkFH_LpUQ7kNvgHlrwXP&_nc_ht=scontent.fdel6-1.fna&_nc_gid=AqeR_1jUUyyD-qjdNcs2Ftd&oh=00_AYBkUkIJCxwR4T0B9ThSHxRvwseyQElKfVkkslHezB6aBg&oe=66F7316D",
-      "https://scontent.fdel6-1.fna.fbcdn.net/v/t39.30808-6/428469351_122190700340003116_4413100289990404979_n.jpg?stp=dst-jpg_p480x480&_nc_cat=103&ccb=1-7&_nc_sid=833d8c&_nc_ohc=nGN-n77njIcQ7kNvgHOekKh&_nc_ht=scontent.fdel6-1.fna&_nc_gid=AqeR_1jUUyyD-qjdNcs2Ftd&oh=00_AYCQ4VSz561MwMwCbceTHK5narvpdxa_yovDDNldO_9tiQ&oe=66F736F3",
+    docs:["https://scontent.fdel6-1.fna.fbcdn.net/v/t39.30808-6/428326505_122190700466003116_8744543191511732554_n.jpg?stp=c0.87.1079.1079a_dst-jpg_s206x206&_nc_cat=108&ccb=1-7&_nc_sid=50ad20&_nc_ohc=5irigGghgAMQ7kNvgET3Eks&_nc_ht=scontent.fdel6-1.fna&_nc_gid=ArO6yCmb8NZM7_KpPzHIBuh&oh=00_AYBusASB4pkPo8yGUQ7kKESmfOf1SKlEgn2vAGZIJPkVqg&oe=670D62AD",
+      "https://scontent.fdel6-1.fna.fbcdn.net/v/t39.30808-6/428609549_122190698204003116_4918354484079755997_n.jpg?stp=c0.88.1079.1079a_dst-jpg_s206x206&_nc_cat=110&ccb=1-7&_nc_sid=50ad20&_nc_ohc=_FX0TI_SF_oQ7kNvgHCvVP5&_nc_ht=scontent.fdel6-1.fna&_nc_gid=ArO6yCmb8NZM7_KpPzHIBuh&oh=00_AYCEiJDJ7LUobsXbCA7yGHguKIzxyGKYbM4wcoLJSaEl-A&oe=670D370A",
+      "https://scontent.fdel6-1.fna.fbcdn.net/v/t39.30808-6/428469351_122190700340003116_4413100289990404979_n.jpg?stp=c0.86.1079.1079a_dst-jpg_s206x206&_nc_cat=103&ccb=1-7&_nc_sid=50ad20&_nc_ohc=niUIuITlj7kQ7kNvgEGrIjZ&_nc_ht=scontent.fdel6-1.fna&_nc_gid=ArO6yCmb8NZM7_KpPzHIBuh&oh=00_AYDZCWmtn16Vt6tE8UeUInLxSWF7SBmAklBTJR6sBG6Opg&oe=670D2FF3",
   ]
   },
   {
-    id: 5,
+    id: 6,
     img: "https://media.licdn.com/dms/image/D560BAQFUpg-8afMhoQ/company-logo_100_100/0/1690912561890/govt_model_sanskriti_senior_secondary_school_logo?e=2147483647&v=beta&t=Sf9K8qO7gpe4sffTA0VAUnBsKHGK4cOcB1VQVqs1W58",
     role: "President",
     company: "Govt.Model Sanskriti Senior Secondary School",
@@ -380,7 +404,7 @@ export const experiences = [
   ]
   },
   {
-    id: 6,
+    id: 7,
     img: "https://media.licdn.com/dms/image/D560BAQFUpg-8afMhoQ/company-logo_100_100/0/1690912561890/govt_model_sanskriti_senior_secondary_school_logo?e=2147483647&v=beta&t=Sf9K8qO7gpe4sffTA0VAUnBsKHGK4cOcB1VQVqs1W58",
     role: "Journalist",
     company: "Govt.Model Sanskriti Senior Secondary School",
@@ -412,7 +436,7 @@ export const experiences = [
   ]
   },
   {
-    id: 7,
+    id: 8,
     img: "https://media.licdn.com/dms/image/v2/D560BAQFmZ0S_Fm164g/company-logo_100_100/company-logo_100_100/0/1708712942624?e=1735171200&v=beta&t=HIevjqOAP7jIDiijEioVmCVg5z7KB7yMgqsN7DOgc24",
     role: "Managing Director",
     company: "Fad Production",
@@ -439,7 +463,7 @@ export const experiences = [
     ],
   },
   {
-    id: 8,
+    id: 9,
     img: "https://media.licdn.com/dms/image/C4D0BAQEfoRsyU4yUzg/company-logo_100_100/0/1631053379845/youtube_logo?e=2147483647&v=beta&t=sVF3n4GcwyMY27cjzNDawR8-UweqBDEj5fwO3sFZSZY",
     role: "Podcaster",
     company: "Youtube",
@@ -450,7 +474,7 @@ export const experiences = [
     ],
   },
   {
-    id: 9,
+    id: 10,
     img: "https://media.licdn.com/dms/image/C4D0BAQEfoRsyU4yUzg/company-logo_100_100/0/1631053379845/youtube_logo?e=2147483647&v=beta&t=sVF3n4GcwyMY27cjzNDawR8-UweqBDEj5fwO3sFZSZY",
     role: "Vlogger",
     company: "Youtube",
@@ -461,7 +485,7 @@ export const experiences = [
     ],
   },
   {
-    id: 10,
+    id: 11,
     img: "https://media.licdn.com/dms/image/C4D0BAQEfoRsyU4yUzg/company-logo_100_100/0/1631053379845/youtube_logo?e=2147483647&v=beta&t=sVF3n4GcwyMY27cjzNDawR8-UweqBDEj5fwO3sFZSZY",
     role: "Gamer",
     company: "Youtube",
@@ -470,35 +494,6 @@ export const experiences = [
     skills: [
       "Gaming",
     ],
-  },
-  {
-    id: 11,
-    img: "https://media.licdn.com/dms/image/v2/D560BAQHpLjLLXqVGIQ/company-logo_100_100/company-logo_100_100/0/1719257632228?e=1735171200&v=beta&t=S40SAiiOcsI0xaEn7I0hlStwnmjiKY_SU4bi5oPtdG8",
-    role: "Fundraising Volunteer",
-    company: "Muskurahat Foundation",
-    date: "Jul 2024 - Aug 2024 • 2 months",
-    desc: (
-      <>
-      Raised more than 1 Lakh rupees + taught some coding related skills to the underprivileged children at Muskurahat Foundation. <br />
-      <br />
-      Pretty engaged in outreach campaigns to pull in, the potential donors, using personalised approaches to increase engagement and contributions at the same time collaborated with the NGO’s leadership to strategize and execute fundraising campaigns, achieving and exceeding set targets within two months. <br /> 
-      <br />
-      Led donor engagement efforts by communicating the impact of their every single contribution, looking for long-term relationships and trust. <br />
-      <br />
-      Developed and implemented innovative fundraising strategies, including social media advertisements, organised various underprivileged child care awareness programs and community-based events, to boost donations. <br />
-      <br />
-      Acted as a mentor to students, providing them with guidance and inspiration to pursue education and personal development.
-      </>
-    ),
-    skills: [
-      "Fundraising",
-      "Crowdfunding",
-      "Storytelling",
-    ],
-    docs:["/muskuoffer.png",
-      "/muskuvolun.png",
-      "/muskulor.png"
-    ]
   },
   {
     id: 12,
@@ -530,7 +525,126 @@ export const experiences = [
     ]
   },
   {
-    id: 11,
+    id: 13,
+    img: "https://media.licdn.com/dms/image/v2/D560BAQHpLjLLXqVGIQ/company-logo_100_100/company-logo_100_100/0/1719257632228?e=1735171200&v=beta&t=S40SAiiOcsI0xaEn7I0hlStwnmjiKY_SU4bi5oPtdG8",
+    role: "Frontend Web Developer Intern",
+    company: "Muskurahat Foundation",
+    date: "Jul 2024 - Aug 2024 • 2 months",
+    desc: (
+      <>
+      Built and implemented key features for the Muskurahat Foundation web app, significantly level up its functionality and user engagement. It revamps the user interface and user experience, creating a more intuitive and visually appealing platform for users, leading to improved user satisfaction. <br />
+      <br />
+      Optimised web app performance, increasing speed by 30%, which resulted in a smoother and faster browsing experience for visitors. <br /> 
+      <br />
+      Collaborated with cross-functional teams, including designers and back-end developers, to ensure seamless integration of new features and design improvements. Also conducted user testing and incorporated feedback to iteratively refine the web app, enhancing usability and accessibility for all users. <br />
+      <br />
+      Played a key role in maintaining the web app's codebase, improving its scalability and reducing technical debt through clean, efficient coding practices. <br />
+      </>
+    ),
+    skills: [
+      "Front-End Design",
+      "User Interface Design",
+      "User Experience (UX)",
+    ],
+    docs:["/muskuoffer.png",
+      "/muskuintern.png",
+      "/muskulor.png",
+      "https://media.licdn.com/dms/image/v2/D562DAQEWHg7-y5s2_Q/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1722530366254?e=1729148400&v=beta&t=xVY3SrEaG6UjTLsj3evVmqmASdVMlDDV40rCUYkke8U"
+    ]
+  },
+  {
+    id: 14,
+    img: "https://media.licdn.com/dms/image/v2/C4E0BAQHfk_O8amPovQ/company-logo_100_100/company-logo_100_100/0/1642532597684/oasis_infobyte_logo?e=1736380800&v=beta&t=kUyAQCbGk5VQAbwZaV7F1GqixQKTNR54yG_H2aJ_aJw",
+    role: "Web Developer Intern",
+    company: "Oasis Infobyte",
+    date: "Mar 2024 - May 2024 • 3 months",
+    desc: (
+      <>
+      Developed a comprehensive user authentication web app, ensuring secure login processes for the company's clients. <br />
+      <br />
+      Handled both front-end and back-end development, contributing to the interface design and implementation of two-factor authentication for enhanced security.  <br /> 
+      <br />
+      Collaborated with the development team to ensure seamless integration of front-end features with back-end functionality. Gained hands-on experience in full-stack development and back-end technologies. <br />
+      <br />
+      Improved the app's security protocols, helping safeguard user data and providing a more reliable authentication system. <br />
+      </>
+    ),
+    skills: [
+      "JavaScript",
+      "React.js",
+      "Cascading Style Sheets (CSS)",
+      "Teamwork",
+      "Team Building",
+      "Cross-functional Team Leadership",
+    ],
+    docs:["/oasis.png",
+      "/oasis2.png",
+      "/oasis3.png",
+      "/oasis4.png"
+    ]
+  },
+  {
+    id: 15,
+    img: "https://media.licdn.com/dms/image/v2/C510BAQHSolnkv_Jrog/company-logo_100_100/company-logo_100_100/0/1631417254927/make_a_difference_2_logo?e=1736380800&v=beta&t=pUbb5XU6OKx50X2PLEzb-GaUkWDHdzsoc3um4kHL11I",
+    role: "Campaign Volunteer",
+    company: "MAD - Make A Difference",
+    date: "Feb 2023 - Feb 2024 • 1 year 1 month",
+    desc: (
+      <>
+      Mentored 5 children for 1 year from vulnerable backgrounds taught them all the essential skills and care to grow in life. (156 hours of volunteer) <br />
+      <br />
+      Dedicated 3 hours/week, 2 hours in mentoring children on personal development, 1 hour in learning circles to develop my mentoring, leadership and community development skills.  <br /> 
+      <br />
+      Organised various community and resource management activities both online and offline contributing to the effectiveness of MAD's programs. <br />
+      <br />
+      Promoted education for underprivileged children by each and every medium possible. <br />
+      <br />
+      Fostered connections and support from local stakeholders to drive MAD's mission forward and raised more than Rs 50,000.
+      </>
+    ),
+    skills: [
+      "Networking",
+      "Event Planning",
+      "Crowdfunding",
+      "Public Speaking"
+    ],
+    docs:["/madoffer.png",
+      "/madvolun.png",
+      "/madlor.png"
+    ]
+  },
+  {
+    id: 16,
+    img: "https://media.licdn.com/dms/image/v2/C510BAQHSolnkv_Jrog/company-logo_100_100/company-logo_100_100/0/1631417254927/make_a_difference_2_logo?e=1736380800&v=beta&t=pUbb5XU6OKx50X2PLEzb-GaUkWDHdzsoc3um4kHL11I",
+    role: "Backend Web Developer Intern",
+    company: "MAD - Make A Difference",
+    date: "Sep 2023 - Dec 2023 • 4 months",
+    desc: (
+      <>
+      Designed and built the complete back-end infrastructure for processing applications for the 2024-2025 Make A Difference (MAD) volunteer program, handling large-scale data intake and management with ease. <br />
+      <br />
+      Architected a competitive application process to attract and filter the most qualified candidates, leveraging advanced filtering algorithms and dynamic criteria to enhance selectivity.  <br /> 
+      <br />
+      Developed secure and scalable systems for application submission, review, and tracking, ensuring smooth and efficient processing of high volumes of applications. Collaborated closely with the front-end development team to integrate user-friendly interfaces with back-end logic, delivering a seamless and intuitive application experience. <br />
+      <br />
+      Implemented backend performance optimisations, improving the speed and reliability of the system while maintaining robust security protocols to safeguard sensitive applicant data. <br />
+      <br />
+      Contributed to the continuous improvement of the program’s volunteer selection processes, streamlining operations and enhancing the overall effectiveness of volunteer recruitment.
+      </>
+    ),
+    skills: [
+      "Back-end Operations",
+      "Databases",
+      "Server Side Programming",
+    ],
+    docs:["/madoffer.png",
+      "/madintern.png",
+      "/madlor.png",
+      "https://media.licdn.com/dms/image/sync/v2/D5627AQGg56_djaSd5A/articleshare-shrink_800/articleshare-shrink_800/0/1723399999854?e=1729152000&v=beta&t=uIOHkP5A9Bu-6-KxUF7xa5E_IluN6P5C-DHla7qyo_A"
+    ]
+  },
+  {
+    id: 17,
     img: "https://media.licdn.com/dms/image/C4D0BAQGJJptZDxUcpQ/company-logo_100_100/0/1631333058053?e=2147483647&v=beta&t=HCoBZ2ZIktU4whDpoVWSEEgXylo5ivpyu-e7gmCCY2I",
     role: "State Baseball Player",
     company: "Grand Slam Baseball",
@@ -553,7 +667,7 @@ export const experiences = [
       "Team Building",
       "Teamwork",
     ],
-    docs:["https://media.licdn.com/dms/image/v2/D562DAQHEUmIVn6eDzA/profile-treasury-image-shrink_160_160/profile-treasury-image-shrink_160_160/0/1722134454196?e=1727701200&v=beta&t=vpa8VgCNI9cz6--96KtELszvkJxTpdO3PZi2M-kc4BA",]
+    docs:["https://media.licdn.com/dms/image/v2/D562DAQHEUmIVn6eDzA/profile-treasury-image-shrink_160_160/profile-treasury-image-shrink_160_160/0/1722134454196?e=1729148400&v=beta&t=NW0ATiUuIN0ZR4zS7MM5UEiuXE4Hs4O5fnOZCVCZbo8",]
   },
 ];
 
@@ -563,8 +677,8 @@ export const education = [
     img: "https://media.licdn.com/dms/image/D560BAQHuyJT2OfJvtw/company-logo_100_100/0/1690913808542?e=2147483647&v=beta&t=afQB2l2aDfg45J1dq2yHKjgBR0M2seR25Ec9ddryoAg",
     school: "Govt.Model Sanskriti Senior Secondary School, Gurugram",
     date: "Jan 2022 - Dec 2025",
-    grade: "A+",
-    desc: "I'am Currently Pursuing Computer Science with Science (PCM) at Govt.Model Sanskriti Senior Secondary School, Gurugram. Till Now I Have Completed 4 Semesters and have a Grade of A+.",
+    grade: "A++",
+    desc: "I'm Currently Pursuing Computer Science with Science (PCM) at Govt.Model Sanskriti Senior Secondary School, Gurugram. Till Now I Have Completed 6 Semesters and have a Grade of A++.",
     degree: "CBSE(IX - XII), Highschool",
   },
   {
