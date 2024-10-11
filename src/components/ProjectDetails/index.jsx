@@ -13,6 +13,7 @@ background-color: #000000a7;
 display: flex;
 align-items: top;
 justify-content: center;
+overflow-x: hidden;
 overflow-y: scroll;
 transition: all 0.5s ease;
 `;
