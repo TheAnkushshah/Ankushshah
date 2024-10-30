@@ -562,7 +562,8 @@ export const experiences = [
       Room - Meeting app for virtual collaboration and online classes, also to be safe from data breaches.<br />
       Gossip - Messaging app for communication.<br />
       Drove - Homework sharing app to streamline academic collaboration.<br />
-      Yup or Nope - Attendance app to manage classroom presence digitally, saving papers mean enviorment.
+      Yup or Nope - Attendance app to manage classroom presence digitally, saving papers mean enviorment.<br />
+      Neomind - AI Chat bot to ask any questions also for code, picture, video, music generation.
       </>
     ),
     skills: [
@@ -845,7 +846,9 @@ export const experiences = [
       "Team Building",
       "Teamwork",
     ],
-    docs:["/baseballpic.jpeg",]
+    docs:["/baseballpic.jpeg",
+      "/base2.jpeg"
+    ]
   },
 ];
 
