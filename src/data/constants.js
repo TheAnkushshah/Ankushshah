@@ -426,7 +426,7 @@ export const experiences = [
       "Mentorship",
       "Public Speaking"
     ],
-    docs: ["https://media.licdn.com/dms/image/v2/D562DAQEQZw-HKmfUVg/profile-treasury-image-shrink_160_160/profile-treasury-image-shrink_160_160/0/1727800095338?e=1729148400&v=beta&t=s0WTGKBxF_3ViCJMrgI3bTsMAt-gCK6OipwUMcJuOhg"]
+    docs: ["/nshss.png", "/nshss2.png"]
   },
   {
     id: 1,
@@ -452,7 +452,7 @@ export const experiences = [
       "Proposal Writing",
       "Vocabulary Development",
     ],
-    docs: ["https://media.licdn.com/dms/image/sync/v2/D4D22AQHjp97zEIjATQ/feedshare-shrink_160/feedshare-shrink_160/0/1715737842539?e=1729728000&v=beta&t=affqVP8M3w78zISdDytg_WbOQ9vJ33oGjQ6xLnUZuGk"]
+    docs: ["/book.jpeg"]
   },
   {
     id: 2,
@@ -468,7 +468,7 @@ export const experiences = [
       "Brand Building",
       "Programming",
     ],
-    docs:["https://media.licdn.com/dms/image/v2/D562DAQFTX_a3aA4_3g/profile-treasury-image-shrink_160_160/profile-treasury-image-shrink_160_160/0/1722618690526?e=1729148400&v=beta&t=mDXY6dCmW-rSXIeHSiY1LNnhesNy0cieOuO4G7P0WgI",
+    docs:["/foodu.jpeg",
   ]
   },
   {
@@ -501,8 +501,8 @@ export const experiences = [
       "Critical Thinking",
       "Cross-Functional Team Leadership",
     ],
-    docs: ["https://media.licdn.com/dms/image/v2/D562DAQHJXfAceORAIA/profile-treasury-image-shrink_160_160/profile-treasury-image-shrink_160_160/0/1709840850893?e=1729148400&v=beta&t=AdnbDpvE7ZKeuzNMeI2YEIEoXdHAsFWdSUdgff8XeKk",
-  "https://media.licdn.com/dms/image/sync/v2/D4D22AQHTjcVhzoOP0A/feedshare-shrink_160/feedshare-shrink_160/0/1706639219031?e=1729728000&v=beta&t=WqQsE2SDTs-k8pNPPzolO8eTAHlYZGO_52g9QpONE-A",
+    docs: ["/works.jpeg",
+  "/workid.jpeg",
   ]
   },
   {
@@ -516,7 +516,7 @@ export const experiences = [
       "Critical Thinking",
       "Problem Solving",
     ],
-    docs: ["https://media.licdn.com/dms/image/sync/v2/D4D22AQGqfPBs-qoVTQ/feedshare-shrink_160/feedshare-shrink_160/0/1706637346919?e=1729728000&v=beta&t=GGBtxe-tLBgUPKmw1cT16mjOhoA6iJGAFFkb5T9Ov8s",]
+    docs: ["/scholarulllas.jpeg"]
   },
   {
     id: 5,
@@ -533,9 +533,9 @@ export const experiences = [
       "Brand Building",
       "Programming",
     ],
-    docs:["https://scontent.fdel6-1.fna.fbcdn.net/v/t39.30808-6/428326505_122190700466003116_8744543191511732554_n.jpg?stp=c0.87.1079.1079a_dst-jpg_s206x206&_nc_cat=108&ccb=1-7&_nc_sid=50ad20&_nc_ohc=5irigGghgAMQ7kNvgET3Eks&_nc_ht=scontent.fdel6-1.fna&_nc_gid=ArO6yCmb8NZM7_KpPzHIBuh&oh=00_AYBusASB4pkPo8yGUQ7kKESmfOf1SKlEgn2vAGZIJPkVqg&oe=670D62AD",
-      "https://scontent.fdel6-1.fna.fbcdn.net/v/t39.30808-6/428609549_122190698204003116_4918354484079755997_n.jpg?stp=c0.88.1079.1079a_dst-jpg_s206x206&_nc_cat=110&ccb=1-7&_nc_sid=50ad20&_nc_ohc=_FX0TI_SF_oQ7kNvgHCvVP5&_nc_ht=scontent.fdel6-1.fna&_nc_gid=ArO6yCmb8NZM7_KpPzHIBuh&oh=00_AYCEiJDJ7LUobsXbCA7yGHguKIzxyGKYbM4wcoLJSaEl-A&oe=670D370A",
-      "https://scontent.fdel6-1.fna.fbcdn.net/v/t39.30808-6/428469351_122190700340003116_4413100289990404979_n.jpg?stp=c0.86.1079.1079a_dst-jpg_s206x206&_nc_cat=103&ccb=1-7&_nc_sid=50ad20&_nc_ohc=niUIuITlj7kQ7kNvgEGrIjZ&_nc_ht=scontent.fdel6-1.fna&_nc_gid=ArO6yCmb8NZM7_KpPzHIBuh&oh=00_AYDZCWmtn16Vt6tE8UeUInLxSWF7SBmAklBTJR6sBG6Opg&oe=670D2FF3",
+    docs:["/last.jpg",
+      "/last2.jpg",
+      "/last3.jpg",
   ]
   },
   {
@@ -605,7 +605,8 @@ export const experiences = [
       "Communication",
       "Research",
     ],
-    docs:["https://github.com/TheAnkushshah/Govt.Model-Sanskriti-Senior-Secondary-School/blob/main/home4.png?raw=true",
+    docs:["/journal.jpeg",
+      "https://github.com/TheAnkushshah/Govt.Model-Sanskriti-Senior-Secondary-School/blob/main/home4.png?raw=true",
       "https://github.com/TheAnkushshah/Govt.Model-Sanskriti-Senior-Secondary-School/blob/main/blog.png?raw=true",
       "https://github.com/TheAnkushshah/Govt.Model-Sanskriti-Senior-Secondary-School/blob/main/blog2.png?raw=true",
       "https://github.com/TheAnkushshah/Govt.Model-Sanskriti-Senior-Secondary-School/blob/main/blog3.png?raw=true",
@@ -728,7 +729,7 @@ export const experiences = [
     docs:["/muskuoffer.png",
       "/muskuintern.png",
       "/muskulor.png",
-      "https://media.licdn.com/dms/image/v2/D562DAQEWHg7-y5s2_Q/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1722530366254?e=1729148400&v=beta&t=xVY3SrEaG6UjTLsj3evVmqmASdVMlDDV40rCUYkke8U"
+      "/musku.png"
     ]
   },
   {
@@ -819,7 +820,7 @@ export const experiences = [
     docs:["/madoffer.png",
       "/madintern.png",
       "/madlor.png",
-      "https://media.licdn.com/dms/image/sync/v2/D5627AQGg56_djaSd5A/articleshare-shrink_800/articleshare-shrink_800/0/1723399999854?e=1729152000&v=beta&t=uIOHkP5A9Bu-6-KxUF7xa5E_IluN6P5C-DHla7qyo_A"
+      "/madder.jpeg"
     ]
   },
   {
@@ -846,7 +847,7 @@ export const experiences = [
       "Team Building",
       "Teamwork",
     ],
-    docs:["https://media.licdn.com/dms/image/v2/D562DAQHEUmIVn6eDzA/profile-treasury-image-shrink_160_160/profile-treasury-image-shrink_160_160/0/1722134454196?e=1729148400&v=beta&t=NW0ATiUuIN0ZR4zS7MM5UEiuXE4Hs4O5fnOZCVCZbo8",]
+    docs:["/baseballpic.jpeg",]
   },
 ];
 
