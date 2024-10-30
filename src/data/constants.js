@@ -611,8 +611,6 @@ export const experiences = [
       "https://github.com/TheAnkushshah/Govt.Model-Sanskriti-Senior-Secondary-School/blob/main/blog2.png?raw=true",
       "https://github.com/TheAnkushshah/Govt.Model-Sanskriti-Senior-Secondary-School/blob/main/blog3.png?raw=true",
       "https://github.com/TheAnkushshah/Govt.Model-Sanskriti-Senior-Secondary-School/blob/main/blog4.png?raw=true",
-      "https://github.com/TheAnkushshah/Govt.Model-Sanskriti-Senior-Secondary-School/blob/main/blog5.png?raw=true",
-      "https://github.com/TheAnkushshah/Govt.Model-Sanskriti-Senior-Secondary-School/blob/main/blog6.png?raw=true",
   ]
   },
   {
