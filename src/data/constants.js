@@ -914,7 +914,7 @@ export const projects = [
     member: [
       {
         name: "Ankush Shah",
-        img: "https://media.licdn.com/dms/image/D5603AQGYji9AXE1Xow/profile-displayphoto-shrink_200_200/0/1709916182068?e=2147483647&v=beta&t=7TpRprrFd1RM-RLMK1eJHJMxkzKrKr7MpGRysKm8q3w",
+        img: "https://media.licdn.com/dms/image/v2/D5603AQE7Sdri6Mn0dA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1730737977327?e=2147483647&v=beta&t=153d_ZcRq18X_0RPRMOi6moVAs8Ey7MwCEj5PGyRSOk",
         linkedin: "https://www.linkedin.com/in/theankuushshah/",
         github: "https://github.com/theankushshah/",
       },
@@ -953,7 +953,7 @@ export const projects = [
     member: [
       {
         name: "Ankush Shah",
-        img: "https://media.licdn.com/dms/image/D5603AQGYji9AXE1Xow/profile-displayphoto-shrink_200_200/0/1709916182068?e=2147483647&v=beta&t=7TpRprrFd1RM-RLMK1eJHJMxkzKrKr7MpGRysKm8q3w",
+        img: "https://media.licdn.com/dms/image/v2/D5603AQE7Sdri6Mn0dA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1730737977327?e=2147483647&v=beta&t=153d_ZcRq18X_0RPRMOi6moVAs8Ey7MwCEj5PGyRSOk",
         linkedin: "https://www.linkedin.com/in/theankuushshah/",
         github: "https://github.com/theankushshah/",
       },
@@ -980,7 +980,7 @@ export const projects = [
     member: [
       {
         name: "Ankush Shah",
-        img: "https://media.licdn.com/dms/image/D5603AQGYji9AXE1Xow/profile-displayphoto-shrink_200_200/0/1709916182068?e=2147483647&v=beta&t=7TpRprrFd1RM-RLMK1eJHJMxkzKrKr7MpGRysKm8q3w",
+        img: "https://media.licdn.com/dms/image/v2/D5603AQE7Sdri6Mn0dA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1730737977327?e=2147483647&v=beta&t=153d_ZcRq18X_0RPRMOi6moVAs8Ey7MwCEj5PGyRSOk",
         linkedin: "https://www.linkedin.com/in/theankuushshah/",
         github: "https://github.com/theankushshah/",
       },
@@ -1014,7 +1014,7 @@ export const projects = [
     member: [
       {
         name: "Ankush Shah",
-        img: "https://media.licdn.com/dms/image/D5603AQGYji9AXE1Xow/profile-displayphoto-shrink_200_200/0/1709916182068?e=2147483647&v=beta&t=7TpRprrFd1RM-RLMK1eJHJMxkzKrKr7MpGRysKm8q3w",
+        img: "https://media.licdn.com/dms/image/v2/D5603AQE7Sdri6Mn0dA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1730737977327?e=2147483647&v=beta&t=153d_ZcRq18X_0RPRMOi6moVAs8Ey7MwCEj5PGyRSOk",
         linkedin: "https://www.linkedin.com/in/theankuushshah/",
         github: "https://github.com/theankushshah/",
       },
@@ -1040,7 +1040,7 @@ export const projects = [
     member: [
       {
         name: "Ankush Shah",
-        img: "https://media.licdn.com/dms/image/D5603AQGYji9AXE1Xow/profile-displayphoto-shrink_200_200/0/1709916182068?e=2147483647&v=beta&t=7TpRprrFd1RM-RLMK1eJHJMxkzKrKr7MpGRysKm8q3w",
+        img: "https://media.licdn.com/dms/image/v2/D5603AQE7Sdri6Mn0dA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1730737977327?e=2147483647&v=beta&t=153d_ZcRq18X_0RPRMOi6moVAs8Ey7MwCEj5PGyRSOk",
         linkedin: "https://www.linkedin.com/in/theankuushshah/",
         github: "https://github.com/theankushshah/",
       },
@@ -1073,7 +1073,7 @@ export const projects = [
     member: [
       {
         name: "Ankush Shah",
-        img: "https://media.licdn.com/dms/image/D5603AQGYji9AXE1Xow/profile-displayphoto-shrink_200_200/0/1709916182068?e=2147483647&v=beta&t=7TpRprrFd1RM-RLMK1eJHJMxkzKrKr7MpGRysKm8q3w",
+        img: "https://media.licdn.com/dms/image/v2/D5603AQE7Sdri6Mn0dA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1730737977327?e=2147483647&v=beta&t=153d_ZcRq18X_0RPRMOi6moVAs8Ey7MwCEj5PGyRSOk",
         linkedin: "https://www.linkedin.com/in/theankuushshah/",
         github: "https://github.com/theankushshah/",
       },
@@ -1099,7 +1099,7 @@ export const projects = [
     member: [
       {
         name: "Ankush Shah",
-        img: "https://media.licdn.com/dms/image/D5603AQGYji9AXE1Xow/profile-displayphoto-shrink_200_200/0/1709916182068?e=2147483647&v=beta&t=7TpRprrFd1RM-RLMK1eJHJMxkzKrKr7MpGRysKm8q3w",
+        img: "https://media.licdn.com/dms/image/v2/D5603AQE7Sdri6Mn0dA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1730737977327?e=2147483647&v=beta&t=153d_ZcRq18X_0RPRMOi6moVAs8Ey7MwCEj5PGyRSOk",
         linkedin: "https://www.linkedin.com/in/theankuushshah/",
         github: "https://github.com/theankushshah/",
       },
@@ -1120,7 +1120,7 @@ export const projects = [
     member: [
       {
         name: "Ankush Shah",
-        img: "https://media.licdn.com/dms/image/D5603AQGYji9AXE1Xow/profile-displayphoto-shrink_200_200/0/1709916182068?e=2147483647&v=beta&t=7TpRprrFd1RM-RLMK1eJHJMxkzKrKr7MpGRysKm8q3w",
+        img: "https://media.licdn.com/dms/image/v2/D5603AQE7Sdri6Mn0dA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1730737977327?e=2147483647&v=beta&t=153d_ZcRq18X_0RPRMOi6moVAs8Ey7MwCEj5PGyRSOk",
         linkedin: "https://www.linkedin.com/in/theankuushshah/",
         github: "https://github.com/theankushshah/",
       },
@@ -1141,7 +1141,7 @@ export const projects = [
     member: [
       {
         name: "Ankush Shah",
-        img: "https://media.licdn.com/dms/image/D5603AQGYji9AXE1Xow/profile-displayphoto-shrink_200_200/0/1709916182068?e=2147483647&v=beta&t=7TpRprrFd1RM-RLMK1eJHJMxkzKrKr7MpGRysKm8q3w",
+        img: "https://media.licdn.com/dms/image/v2/D5603AQE7Sdri6Mn0dA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1730737977327?e=2147483647&v=beta&t=153d_ZcRq18X_0RPRMOi6moVAs8Ey7MwCEj5PGyRSOk",
         linkedin: "https://www.linkedin.com/in/theankuushshah/",
         github: "https://github.com/theankushshah/",
       },
