@@ -546,9 +546,9 @@ export const experiences = [
     date: "Jan 2022 - Present • 2 years 9 months",
     desc: (
       <>
-      Awarded as Best President of the Period for exemplary leadership and significant contributions to the club's growth and success. <br />
+      Awarded as Best President of the Year - 2022, 2023 for exemplary leadership and significant contributions to the club's growth and success. <br />
       <br />
-      Elected as President for Computer Science Club in class 9th for a 4-year term through competitive elections, demonstrating leadership and commitment to advancing STEM education. <br />
+      Elected as President for Computer Science Club in class 9th through competitive elections, demonstrating leadership and commitment to advancing STEM education. <br />
       <br />
       Took on numerous projects, fests, science fairs, competitions, and workshops, recognised for innovation and impact on the school’s tech community. Then also organised and led workshops on coding, robotics, and emerging technologies, fostering a culture of hands-on learning and experimentation. <br />
       <br />
