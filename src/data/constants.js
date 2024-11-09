@@ -408,7 +408,7 @@ export const experiences = [
   {
     id: 0,
     img: "https://media.licdn.com/dms/image/v2/C4E0BAQEQA6VMfo8Giw/company-logo_100_100/company-logo_100_100/0/1631377493672/national_society_of_high_school_scholars_logo?e=1736380800&v=beta&t=LYtV75kt-WO5tmPJQ6lOIoN2iZwfv9-lGRuTA2egsfg",
-    role: "Member",
+    role: "Associate Member",
     company: "The National Society of High School Scholars (NSHSS)",
     date: "Sep 2024 - Present • 2 months",
     desc: (
