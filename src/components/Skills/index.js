@@ -124,7 +124,7 @@ const Skills = () => {
     <Container id="skills">
       <Wrapper>
         <Title>Skills</Title>
-        <Desc>Here are some of my skills on which I have been working on for the past 5 years.
+        <Desc>Here are some of my skills on which I have been working on for the past 10 years.
         </Desc>
         <Desc>(Visit Github Profile to View all Skills)
         </Desc>
