@@ -105,7 +105,7 @@ function Footer() {
           <SocialMediaIcon href={Bio.linkedin} target="display"><LinkedInIcon /></SocialMediaIcon>
         </SocialMediaIcons>
         <Copyright>
-          &copy; 2024 Ankush Shah. All rights reserved.
+         Built with ❤️ by Haven Futures
         </Copyright>
 
       </FooterWrapper>
