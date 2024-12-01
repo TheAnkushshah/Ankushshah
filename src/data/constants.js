@@ -576,11 +576,7 @@ export const experiences = [
       "DevOps",
     ],
     docs:["https://github.com/TheAnkushshah/Govt.Model-Sanskriti-Senior-Secondary-School/blob/main/home.png?raw=true",
-      "https://github.com/TheAnkushshah/Govt.Model-Sanskriti-Senior-Secondary-School/blob/main/home2.png?raw=true",
-      "https://github.com/TheAnkushshah/Govt.Model-Sanskriti-Senior-Secondary-School/blob/main/home3.png?raw=true",
-      "https://github.com/TheAnkushshah/Govt.Model-Sanskriti-Senior-Secondary-School/blob/main/home4.png?raw=true",
-      "https://github.com/TheAnkushshah/Govt.Model-Sanskriti-Senior-Secondary-School/blob/main/home5.png?raw=true",
-      "https://github.com/TheAnkushshah/Govt.Model-Sanskriti-Senior-Secondary-School/blob/main/home6.png?raw=true",
+      "/President.jpeg",
   ]
   },
   {
@@ -608,10 +604,6 @@ export const experiences = [
     ],
     docs:["/journal.jpeg",
       "https://github.com/TheAnkushshah/Govt.Model-Sanskriti-Senior-Secondary-School/blob/main/home4.png?raw=true",
-      "https://github.com/TheAnkushshah/Govt.Model-Sanskriti-Senior-Secondary-School/blob/main/blog.png?raw=true",
-      "https://github.com/TheAnkushshah/Govt.Model-Sanskriti-Senior-Secondary-School/blob/main/blog2.png?raw=true",
-      "https://github.com/TheAnkushshah/Govt.Model-Sanskriti-Senior-Secondary-School/blob/main/blog3.png?raw=true",
-      "https://github.com/TheAnkushshah/Govt.Model-Sanskriti-Senior-Secondary-School/blob/main/blog4.png?raw=true",
   ]
   },
   {
@@ -728,7 +720,6 @@ export const experiences = [
     docs:["/muskuoffer.png",
       "/muskuintern.png",
       "/muskulor.png",
-      "/musku.png"
     ]
   },
   {
@@ -819,7 +810,6 @@ export const experiences = [
     docs:["/madoffer.png",
       "/madintern.png",
       "/madlor.png",
-      "/madder.jpeg"
     ]
   },
   {
