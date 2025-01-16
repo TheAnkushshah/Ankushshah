@@ -20,7 +20,8 @@ Welcome to this portfolio web application! Comprehensive digital showcase of pro
 - JavaScript
 - HTML5
 - CSS3
-- shadcn
+- Node.js
+- NPM
 - Tailwind CSS
 
 ### <a name="features">Features</a>
