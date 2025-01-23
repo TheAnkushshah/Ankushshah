@@ -203,7 +203,7 @@ export const skills = [
       {
         name: "Go",
         image:
-          "https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/go/go-original.svg",
+          "https://img.icons8.com/?size=512&id=17949&format=png",
       },
       {
         name: "Rust",
@@ -243,7 +243,7 @@ export const skills = [
       {
         name: "AWS",
         image:
-          "https://cdn.icon-icons.com/icons2/2407/PNG/512/aws_icon_146074.png",
+          "https://icons.iconarchive.com/icons/uiconstock/socialmedia/256/AWS-icon.png",
       },
       {
         name: "Google Cloud",
@@ -253,7 +253,7 @@ export const skills = [
       {
         name: "Docker",
         image:
-          "https://cdn.icon-icons.com/icons2/2407/PNG/512/docker_icon_146192.png",
+          "https://img.icons8.com/fluent/512/docker.png",
       },
       {
         name: "Kubernetes",
@@ -407,7 +407,7 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://media.licdn.com/dms/image/v2/C4E0BAQEQA6VMfo8Giw/company-logo_100_100/company-logo_100_100/0/1631377493672/national_society_of_high_school_scholars_logo?e=1736380800&v=beta&t=LYtV75kt-WO5tmPJQ6lOIoN2iZwfv9-lGRuTA2egsfg",
+    img: "https://pbs.twimg.com/profile_images/1022219543568109571/2AEWzHQI_400x400.jpg",
     role: "Associate Member",
     company: "The National Society of High School Scholars (NSHSS)",
     date: "Sep 2024 - Present • 2 months",
@@ -456,7 +456,7 @@ export const experiences = [
   },
   {
     id: 2,
-    img: "https://media.licdn.com/dms/image/v2/D560BAQFASBXXvFxi7g/company-logo_100_100/company-logo_100_100/0/1723803530256/fooduofficial_logo?e=1735171200&v=beta&t=sxN_xr0xeJb22aiTrqeDGMFm-L8lVB9rB3zlilhRJ7I",
+    img: "https://media.licdn.com/dms/image/v2/D560BAQFASBXXvFxi7g/company-logo_100_100/company-logo_100_100/0/1723803530256/fooduofficial_logo?e=1745452800&v=beta&t=tEKnWSyiSDCyrXUorXkIIPe2Lxd-Cub2x5UqFQFZUmc",
     role: "Founder & CEO",
     company: "FOODU",
     date: "Nov 2022 - Present • 1 year 11 months",
@@ -473,7 +473,7 @@ export const experiences = [
   },
   {
    id: 3,
-   img: "https://media.licdn.com/dms/image/v2/C560BAQHdtp6flEcf5g/company-logo_100_100/company-logo_100_100/0/1631349516945?e=1735171200&v=beta&t=PP1BdD9R-Z55AjKZo_XskVZuaQnOvcAuu3qYwvCRQXY",
+   img: "https://media.licdn.com/dms/image/v2/C560BAQHdtp6flEcf5g/company-logo_100_100/company-logo_100_100/0/1631349516945?e=1745452800&v=beta&t=_RSmlkhCHsDvLDxs_FW0lXOtkC6NeEsVL17sB8a9yXg",
     role: "Workshop Lead Volunteer",
     company: "Ullas Trust",
     date: "Dec 2022 - Present • 1 year 10 months",
@@ -507,7 +507,7 @@ export const experiences = [
   },
   {
     id: 4,
-    img: "https://media.licdn.com/dms/image/v2/C560BAQHdtp6flEcf5g/company-logo_100_100/company-logo_100_100/0/1631349516945?e=1735171200&v=beta&t=PP1BdD9R-Z55AjKZo_XskVZuaQnOvcAuu3qYwvCRQXY",
+    img: "https://media.licdn.com/dms/image/v2/C560BAQHdtp6flEcf5g/company-logo_100_100/company-logo_100_100/0/1631349516945?e=1745452800&v=beta&t=_RSmlkhCHsDvLDxs_FW0lXOtkC6NeEsVL17sB8a9yXg",
     role: "Scholarship Holder",
     company: "Ullas Trust",
     date: "Aug 2022 - Present • 2 years 2 months",
@@ -520,7 +520,7 @@ export const experiences = [
   },
   {
     id: 5,
-    img: "https://media.licdn.com/dms/image/v2/D560BAQHUD5CakC7zcg/company-logo_100_100/company-logo_100_100/0/1708739775186?e=1735171200&v=beta&t=ory1lmFZmM6khYZZfXysutY6WsQpLvmnNEVfcUsdGEQ",
+    img: "https://media.licdn.com/dms/image/v2/D560BAQHUD5CakC7zcg/company-logo_100_100/company-logo_100_100/0/1708739775186?e=1745452800&v=beta&t=kWa9X1fG5jQoe4byKIK3L6II0dJVTrsMwzXvgc6IQig",
     role: "Founder & CEO",
     company: "Last Forevers",
     date: "Mar 2023 - Present • 1 year 7 months",
@@ -608,7 +608,7 @@ export const experiences = [
   },
   {
     id: 8,
-    img: "https://media.licdn.com/dms/image/v2/D560BAQFmZ0S_Fm164g/company-logo_100_100/company-logo_100_100/0/1708712942624?e=1735171200&v=beta&t=HIevjqOAP7jIDiijEioVmCVg5z7KB7yMgqsN7DOgc24",
+    img: "https://media.licdn.com/dms/image/v2/D560BAQFmZ0S_Fm164g/company-logo_100_100/company-logo_100_100/0/1708712942624?e=1745452800&v=beta&t=5wpU3bnwDKhen82NKY6Ur8n_9veh8sQjs9gwkMyAebM",
     role: "Managing Director",
     company: "Fad Production",
     date: "Aug 2021 - Present • 3 years 2 months",
@@ -668,7 +668,7 @@ export const experiences = [
   },
   {
     id: 12,
-    img: "https://media.licdn.com/dms/image/v2/D560BAQHpLjLLXqVGIQ/company-logo_100_100/company-logo_100_100/0/1719257632228?e=1735171200&v=beta&t=S40SAiiOcsI0xaEn7I0hlStwnmjiKY_SU4bi5oPtdG8",
+    img: "https://yt3.googleusercontent.com/VVDINtk6arRkRJfaH-Gddxc4VQiIx7C5jgouKaTuraTKsK1tqdTdN4aZHD57iZV-arBgITmdCA=s900-c-k-c0x00ffffff-no-rj",
     role: "Fundraising Volunteer",
     company: "Muskurahat Foundation",
     date: "Jul 2024 - Aug 2024 • 2 months",
@@ -697,7 +697,7 @@ export const experiences = [
   },
   {
     id: 13,
-    img: "https://media.licdn.com/dms/image/v2/D560BAQHpLjLLXqVGIQ/company-logo_100_100/company-logo_100_100/0/1719257632228?e=1735171200&v=beta&t=S40SAiiOcsI0xaEn7I0hlStwnmjiKY_SU4bi5oPtdG8",
+    img: "https://yt3.googleusercontent.com/VVDINtk6arRkRJfaH-Gddxc4VQiIx7C5jgouKaTuraTKsK1tqdTdN4aZHD57iZV-arBgITmdCA=s900-c-k-c0x00ffffff-no-rj",
     role: "Frontend Web Developer Intern",
     company: "Muskurahat Foundation",
     date: "Jul 2024 - Aug 2024 • 2 months",
@@ -724,7 +724,7 @@ export const experiences = [
   },
   {
     id: 14,
-    img: "https://media.licdn.com/dms/image/v2/C4E0BAQHfk_O8amPovQ/company-logo_100_100/company-logo_100_100/0/1642532597684/oasis_infobyte_logo?e=1736380800&v=beta&t=kUyAQCbGk5VQAbwZaV7F1GqixQKTNR54yG_H2aJ_aJw",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyq7rG9Y9tkmDZLIzbnde7wd08wokqwaSAlA&s",
     role: "Web Developer Intern",
     company: "Oasis Infobyte",
     date: "Mar 2024 - May 2024 • 3 months",
@@ -755,7 +755,7 @@ export const experiences = [
   },
   {
     id: 15,
-    img: "https://media.licdn.com/dms/image/v2/C510BAQHSolnkv_Jrog/company-logo_100_100/company-logo_100_100/0/1631417254927/make_a_difference_2_logo?e=1736380800&v=beta&t=pUbb5XU6OKx50X2PLEzb-GaUkWDHdzsoc3um4kHL11I",
+    img: "https://media.licdn.com/dms/image/v2/C510BAQHSolnkv_Jrog/company-logo_100_100/company-logo_100_100/0/1631417254927/make_a_difference_2_logo?e=1745452800&v=beta&t=XyFqNqFxBrXiYNedDfaZDdIGVUYJGV2218Ua9PmhpJ4",
     role: "Campaign Volunteer",
     company: "MAD - Make A Difference",
     date: "Feb 2023 - Feb 2024 • 1 year 1 month",
@@ -785,7 +785,7 @@ export const experiences = [
   },
   {
     id: 16,
-    img: "https://media.licdn.com/dms/image/v2/C510BAQHSolnkv_Jrog/company-logo_100_100/company-logo_100_100/0/1631417254927/make_a_difference_2_logo?e=1736380800&v=beta&t=pUbb5XU6OKx50X2PLEzb-GaUkWDHdzsoc3um4kHL11I",
+    img: "https://media.licdn.com/dms/image/v2/C510BAQHSolnkv_Jrog/company-logo_100_100/company-logo_100_100/0/1631417254927/make_a_difference_2_logo?e=1745452800&v=beta&t=XyFqNqFxBrXiYNedDfaZDdIGVUYJGV2218Ua9PmhpJ4",
     role: "Backend Web Developer Intern",
     company: "MAD - Make A Difference",
     date: "Sep 2023 - Dec 2023 • 4 months",
@@ -904,7 +904,7 @@ export const projects = [
     member: [
       {
         name: "Ankush Shah",
-        img: "https://media.licdn.com/dms/image/v2/D5603AQHZ48aDX1AiUA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1732349891647?e=1738195200&v=beta&t=u8bW-aYlPB_6nSCYLc-ACEJDbo5fGf2TF5b8U2E83O8",
+        img: "https://media.licdn.com/dms/image/v2/D5603AQFKs-4LHrJsCw/profile-displayphoto-shrink_200_200/B56ZQZDf__HQAc-/0/1735587136312?e=1743033600&v=beta&t=yuL5Yc3AKfeYflfnfjdaQ5ss5YnK48CkyTKfQIxkljU",
         linkedin: "https://www.linkedin.com/in/theankuushshah/",
         github: "https://github.com/theankushshah/",
       },
@@ -943,7 +943,7 @@ export const projects = [
     member: [
       {
         name: "Ankush Shah",
-        img: "https://media.licdn.com/dms/image/v2/D5603AQHZ48aDX1AiUA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1732349891647?e=1738195200&v=beta&t=u8bW-aYlPB_6nSCYLc-ACEJDbo5fGf2TF5b8U2E83O8",
+        img: "https://media.licdn.com/dms/image/v2/D5603AQFKs-4LHrJsCw/profile-displayphoto-shrink_200_200/B56ZQZDf__HQAc-/0/1735587136312?e=1743033600&v=beta&t=yuL5Yc3AKfeYflfnfjdaQ5ss5YnK48CkyTKfQIxkljU",
         linkedin: "https://www.linkedin.com/in/theankuushshah/",
         github: "https://github.com/theankushshah/",
       },
@@ -970,7 +970,7 @@ export const projects = [
     member: [
       {
         name: "Ankush Shah",
-        img: "https://media.licdn.com/dms/image/v2/D5603AQHZ48aDX1AiUA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1732349891647?e=1738195200&v=beta&t=u8bW-aYlPB_6nSCYLc-ACEJDbo5fGf2TF5b8U2E83O8",
+        img: "https://media.licdn.com/dms/image/v2/D5603AQFKs-4LHrJsCw/profile-displayphoto-shrink_200_200/B56ZQZDf__HQAc-/0/1735587136312?e=1743033600&v=beta&t=yuL5Yc3AKfeYflfnfjdaQ5ss5YnK48CkyTKfQIxkljU",
         linkedin: "https://www.linkedin.com/in/theankuushshah/",
         github: "https://github.com/theankushshah/",
       },
@@ -1004,7 +1004,7 @@ export const projects = [
     member: [
       {
         name: "Ankush Shah",
-        img: "https://media.licdn.com/dms/image/v2/D5603AQHZ48aDX1AiUA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1732349891647?e=1738195200&v=beta&t=u8bW-aYlPB_6nSCYLc-ACEJDbo5fGf2TF5b8U2E83O8",
+        img: "https://media.licdn.com/dms/image/v2/D5603AQFKs-4LHrJsCw/profile-displayphoto-shrink_200_200/B56ZQZDf__HQAc-/0/1735587136312?e=1743033600&v=beta&t=yuL5Yc3AKfeYflfnfjdaQ5ss5YnK48CkyTKfQIxkljU",
         linkedin: "https://www.linkedin.com/in/theankuushshah/",
         github: "https://github.com/theankushshah/",
       },
@@ -1030,13 +1030,13 @@ export const projects = [
     member: [
       {
         name: "Ankush Shah",
-        img: "https://media.licdn.com/dms/image/v2/D5603AQHZ48aDX1AiUA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1732349891647?e=1738195200&v=beta&t=u8bW-aYlPB_6nSCYLc-ACEJDbo5fGf2TF5b8U2E83O8",
+        img: "https://media.licdn.com/dms/image/v2/D5603AQFKs-4LHrJsCw/profile-displayphoto-shrink_200_200/B56ZQZDf__HQAc-/0/1735587136312?e=1743033600&v=beta&t=yuL5Yc3AKfeYflfnfjdaQ5ss5YnK48CkyTKfQIxkljU",
         linkedin: "https://www.linkedin.com/in/theankuushshah/",
         github: "https://github.com/theankushshah/",
       },
       {
         name: "Ajay Khatri Chhetri",
-        img: "https://media.licdn.com/dms/image/D4E03AQGYBhvOLV_nzw/profile-displayphoto-shrink_200_200/0/1698484434507?e=2147483647&v=beta&t=5_7bpv1kCyCfL2zDs0QIWtQlqLsi14LC7DwtDhjFdmQ",
+        img: "https://media.licdn.com/dms/image/v2/D5603AQFBkB7grWHgRg/profile-displayphoto-shrink_200_200/B56ZQoimwCG8Ac-/0/1735846948402?e=1743033600&v=beta&t=qeMQ934YXoG8DLiROxYBGOWUZAOa4Dc0jj8S6mT0Vao",
         linkedin: "https://in.linkedin.com/in/amajaying?trk=public_profile_browsemap-profile",
         github: "https://github.com/amajaying",
       },
@@ -1055,7 +1055,7 @@ export const projects = [
     description:
       "A Job Finding App made with React Native, Axios. Users can search for any job coming from API and apply there.",
     image:
-      "https://i.imgur.com/2TJjJuL.png",
+      "https://uizard.io/static/fc55be2b8992026eb13bf042bac5c694/a8e47/7bcb6ce32fcb219693132eafeff8bd7c1212ad5c-1440x835.png",
     tags: ["React Native", "JavaScript", "Axios", "Android Studio"],
     category: "android app",
     github: "https://github.com/rishavchanda/Job-finder-App",
@@ -1063,7 +1063,7 @@ export const projects = [
     member: [
       {
         name: "Ankush Shah",
-        img: "https://media.licdn.com/dms/image/v2/D5603AQHZ48aDX1AiUA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1732349891647?e=1738195200&v=beta&t=u8bW-aYlPB_6nSCYLc-ACEJDbo5fGf2TF5b8U2E83O8",
+        img: "https://media.licdn.com/dms/image/v2/D5603AQFKs-4LHrJsCw/profile-displayphoto-shrink_200_200/B56ZQZDf__HQAc-/0/1735587136312?e=1743033600&v=beta&t=yuL5Yc3AKfeYflfnfjdaQ5ss5YnK48CkyTKfQIxkljU",
         linkedin: "https://www.linkedin.com/in/theankuushshah/",
         github: "https://github.com/theankushshah/",
       },
@@ -1089,7 +1089,7 @@ export const projects = [
     member: [
       {
         name: "Ankush Shah",
-        img: "https://media.licdn.com/dms/image/v2/D5603AQHZ48aDX1AiUA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1732349891647?e=1738195200&v=beta&t=u8bW-aYlPB_6nSCYLc-ACEJDbo5fGf2TF5b8U2E83O8",
+        img: "https://media.licdn.com/dms/image/v2/D5603AQFKs-4LHrJsCw/profile-displayphoto-shrink_200_200/B56ZQZDf__HQAc-/0/1735587136312?e=1743033600&v=beta&t=yuL5Yc3AKfeYflfnfjdaQ5ss5YnK48CkyTKfQIxkljU",
         linkedin: "https://www.linkedin.com/in/theankuushshah/",
         github: "https://github.com/theankushshah/",
       },
@@ -1110,7 +1110,7 @@ export const projects = [
     member: [
       {
         name: "Ankush Shah",
-        img: "https://media.licdn.com/dms/image/v2/D5603AQHZ48aDX1AiUA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1732349891647?e=1738195200&v=beta&t=u8bW-aYlPB_6nSCYLc-ACEJDbo5fGf2TF5b8U2E83O8",
+        img: "https://media.licdn.com/dms/image/v2/D5603AQFKs-4LHrJsCw/profile-displayphoto-shrink_200_200/B56ZQZDf__HQAc-/0/1735587136312?e=1743033600&v=beta&t=yuL5Yc3AKfeYflfnfjdaQ5ss5YnK48CkyTKfQIxkljU",
         linkedin: "https://www.linkedin.com/in/theankuushshah/",
         github: "https://github.com/theankushshah/",
       },
@@ -1131,7 +1131,7 @@ export const projects = [
     member: [
       {
         name: "Ankush Shah",
-        img: "https://media.licdn.com/dms/image/v2/D5603AQHZ48aDX1AiUA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1732349891647?e=1738195200&v=beta&t=u8bW-aYlPB_6nSCYLc-ACEJDbo5fGf2TF5b8U2E83O8",
+        img: "https://media.licdn.com/dms/image/v2/D5603AQFKs-4LHrJsCw/profile-displayphoto-shrink_200_200/B56ZQZDf__HQAc-/0/1735587136312?e=1743033600&v=beta&t=yuL5Yc3AKfeYflfnfjdaQ5ss5YnK48CkyTKfQIxkljU",
         linkedin: "https://www.linkedin.com/in/theankuushshah/",
         github: "https://github.com/theankushshah/",
       },
