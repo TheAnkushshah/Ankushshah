@@ -105,7 +105,7 @@ function Footer() {
           <SocialMediaIcon href={Bio.linkedin} target="display"><LinkedInIcon /></SocialMediaIcon>
         </SocialMediaIcons>
         <Copyright>
-         Built with ❤️ by Haven Futures
+         Built with 💚 by Haven Futures
         </Copyright>
 
       </FooterWrapper>
