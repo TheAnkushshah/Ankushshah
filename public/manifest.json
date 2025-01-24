@@ -3,14 +3,14 @@
   "name": "Ankush Shah",
   "icons": [
     {
-      "src": "/HeroImage1.png",
+      "src": "/logo.png",
       "type": "image/png",
-      "sizes": "612x612"
+      "sizes": "407x407"
     },
     {
       "src": "/apple-touch-icon.png",
       "type": "image/png",
-      "sizes": "612x612"
+      "sizes": "407x407"
     }
   ],
   "start_url": ".",
