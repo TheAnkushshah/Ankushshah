@@ -12,7 +12,7 @@ const Navbar = () => {
       <NavbarContainer>
         <NavLogo to='/'>
           <a style={{ display: "flex", alignItems: "center", color: "white", marginBottom: '20;', cursor: 'pointer' }}>
-            <img src="/logo.png" alt="Logo" style={{ width: "2.3rem", height: "2.3rem", marginRight: "10px" }} /> <Span>Portfolio</Span>
+            <img src="/logo.png" alt="Logo" style={{ width: "2.3rem", height: "2.3rem", marginRight: "8px" }} /> <Span>Portfolio</Span>
           </a>
         </NavLogo>
         <MobileIcon>
