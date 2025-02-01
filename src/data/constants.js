@@ -989,7 +989,7 @@ export const projects = [
     description:
       "It's a comprehensive user auth web app, ensuring secure login for the company's clients. Handles both front-end and back-end, contributing to the interface design and implementation of two-factor authentication for enhanced security.",
     image:
-      "https://github.com/TheAnkushshah/oibsip_taskno/blob/main/public/Preview%20copy.png?raw=true",
+      "https://github.com/TheAnkushshah/oibsip_taskno/raw/main/public/Preview.png",
     tags: [
       "Next Js",
       "React",
@@ -1081,7 +1081,7 @@ export const projects = [
     description:
       "Built an Indian multinational restaurant aggregator and food delivery company. It was founded by Ankush Shah in 2022. This dynamic web application is designed to streamline interactions between users and us. With a responsive user interface, users can seamlessly access information, interact, and order food.",
     image:
-      "https://github.com/TheAnkushshah/FOODU/blob/main/Contru.png?raw=true",
+      "https://github.com/TheAnkushshah/FOODU/raw/main/public/Preview.png",
     tags: ["Next Js", "React", "HTML5", "JavaScript", "CSS3", "Many More"],
     category: "web app",
     github: "https://github.com/TheAnkushshah/FOODU",
@@ -1102,7 +1102,7 @@ export const projects = [
     description:
       "Built with the latest Next.js and JavaScript, this project stands for tracking and marking attendance, a widely required tool for institutions. It enables teachers to securely log in, adding students and their information, marking attendance by checking boxes and access various functionalities such as report sharing and downloading.",
     image:
-      "https://github.com/TheAnkushshah/Yup-or-Nope/raw/main/public/ball.png",
+      "https://github.com/TheAnkushshah/Yup-or-Nope/raw/main/public/Preview.png",
     tags: ["Kinde", "Neon", "Postgresql", "Tailwind", "Drizzle", "React", "Many More"],
     category: "web app",
     github: "https://github.com/TheAnkushshah/Yup-or-Nope",
